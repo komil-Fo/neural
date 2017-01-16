@@ -2,7 +2,7 @@ const fs         = require('fs');
 const isExported = fs.existsSync('./classifier.json');
 const natural    = require('natural');
 const classifier = new natural.BayesClassifier();
-const PHRASE     = process.argv[2];
+const PHRASE     = process.argv[2].toLowerCase();
 
 // --------------------------------------------------------------------------------
 
