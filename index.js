@@ -2,12 +2,14 @@ const fs         = require('fs');
 const isExported = fs.existsSync('./classifier.json');
 const natural    = require('natural');
 const classifier = new natural.BayesClassifier();
-const arg = process.argv[2];
+const PHRASE     = process.argv[2];
 
-// const PHRASE = `I can't logon`;
-const PHRASE = arg
-  ? arg
-  : `internet explorer`;
+// --------------------------------------------------------------------------------
+
+if (!PHRASE) {
+  console.warn('Please provide command line phrase to search for!');
+  return;
+}
 
 if (!isExported) {
   const incidents = require('./data');
@@ -16,9 +18,7 @@ if (!isExported) {
 
   console.log( classify(PHRASE, classifier) );
 
-  setImmediate( () => {
-    exportClassifier(classifier);
-  });
+  exportClassifier(classifier);
 }
 
 if (isExported) {
@@ -36,7 +36,10 @@ if (isExported) {
 // --------------------------------------------------------------------------------
 
 function classify(description, classifier) {
-  return classifier.classify(description);
+  return classifier
+    .getClassifications(description)
+    .slice(0, 5)
+    .map(incident => incident.label);
 }
 
 function addIncidents(incidents, classifier) {
