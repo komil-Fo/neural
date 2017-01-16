@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "natural": "^0.4.0",
-    "xlsx": "^0.8.1"
+    "natural": "^0.4.0"
   },
   "devDependencies": {},
   "scripts": {
