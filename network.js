@@ -2,7 +2,7 @@ const fs         = require('fs');
 const isExported = fs.existsSync('./classifier.json');
 const natural    = require('natural');
 const incidents  = require('./data');
-const _          = require('lodash');
+const findKey    = require('lodash/findKey');
 let classifier   = new natural.BayesClassifier();
 
 init();
@@ -36,7 +36,7 @@ function classify(description) {
     .getClassifications(description)
     .slice(0, 5)
     .map(incident => {
-      const index = _.findKey(
+      const index = findKey(
 	incidents,
 	{ 'Title': incident.label }
       );

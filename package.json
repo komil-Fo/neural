@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "cors": "^2.8.1",
     "express": "^4.14.0",
     "lodash": "^4.17.4",
-    "natural": "^0.4.0"
+    "natural": "^0.4.0",
+    "urlencoded-request-parser": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
