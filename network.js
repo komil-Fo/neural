@@ -11,9 +11,7 @@ init();
 
 function init() {
   if (!isExported) {
-    addIncidents(incidents, classifier);
-    classifier.train();
-    exportClassifier(classifier);
+    loadData(incidents);
   }
 
   if (isExported) {
@@ -41,17 +39,35 @@ function classify(description) {
 	{ 'Title': incident.label }
       );
 
+      if (incidents[index]) {
+	description = incidents[index]['Repro Steps'];
+      }
+
       return {
-	[incident.label]: incidents[index]['Repro Steps']
+	[incident.label]: description,
+	weight: incident.value
       };
     });
 }
 
 function addIncidents(incidents, classifier) {
-  for (let incident of incidents) {
-    const { Title: title, 'Repro Steps': description } = incident;
-    classifier.addDocument(description, title);
+  if (Array.isArray(incidents)) {
+    for (let incident of incidents) {
+      addIncident(incident, classifier);
+    }
+  } else {
+    addIncident(incidents, classifier);
   }
+}
+
+function addIncident(incident, classifier) {
+    if (incident.title && incident.description) {
+      var { title, description } = incident;
+    } else {
+      var { Title: title, 'Repro Steps': description } = incident;
+    }
+
+    classifier.addDocument(description, title);
 }
 
 function exportClassifier(classifier) {
@@ -61,6 +77,13 @@ function exportClassifier(classifier) {
   });
 }
 
+function loadData(incidents) {
+    addIncidents(incidents, classifier);
+    classifier.train();
+    exportClassifier(classifier);
+}
+
 module.exports = {
-  classify
+  classify,
+  updateData: loadData
 };
