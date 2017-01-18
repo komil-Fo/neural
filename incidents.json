@@ -1,0 +1,4862 @@
+[
+  {
+    "Ticket ID": "T124901",
+    "Summary": "[4.12] Installation HP Z240 Workstation",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124888",
+    "Summary": "[4.11] Neues Laptop Modell l�sst sich nicht installieren.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124882",
+    "Summary": "[4.11] OS-Installationsprobleme mit neuer Dell Latitude Serie",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124784",
+    "Summary": "HP EliteBook 840 G3 / Empirum: 16.0.2.3955 / Epe-374 (375)",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124654",
+    "Summary": "[4.10] EPE-Phase - \"no suitable interface found",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124573",
+    "Summary": "[4.10] PXE boot Dell Optiplex 5040",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124568",
+    "Summary": "[4.10] Lenovo ThinkPad X260",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124484",
+    "Summary": "[4.10] PXE Boot mit der aktuellen Ver 3.75 Dell Optiplex 3040  [Eis32] Error No: 407 (EisError 401)",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124430",
+    "Summary": "[4.10]Fehlende Treiber f�r Intel I219-V im aktuellen EPE 3.75",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124401",
+    "Summary": "Missing Operating System mit EPE 4.10",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124399",
+    "Summary": "EPE kann wegen fehlender Netzwerkkarte nicht installieren",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124375",
+    "Summary": "Fehler bei \"Bootimage Upgrade to EPE 4",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124367",
+    "Summary": "- SR1507257 - EPE 374 / 375 enth�lt Treiber nicht. E5570, E7270 und das E7470",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124341",
+    "Summary": "#CIT02515 - EPE Boot Image Intel Skylake Chipsatz",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124325",
+    "Summary": "PXE-Boot EPE 4.07 auf Lenovo Yoga260 bekommt keine IP per DHCP",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124308",
+    "Summary": "Empirum 15.1.9 - Dell OptiPlex 5040 keine OS-Installation m�glich",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124259",
+    "Summary": "TR: Erreur",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124256",
+    "Summary": "EPE 4.0.7 > PXE-e32 tftp open timeout",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124214",
+    "Summary": "EPE 4.0 gew�nscht",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124211",
+    "Summary": "Vorbereitung OS Installation Surface 4 Pro",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124200",
+    "Summary": "Skylake/EPE4/HP",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124197",
+    "Summary": "OS-Installation Optiplex 7040",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124190",
+    "Summary": "[4.10]Hardwarescan neuer PC",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124180",
+    "Summary": "Rechner-Installationen Skylake",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124178",
+    "Summary": "EPE4.0.4: Kein Netzerkinterface gefunden: HP EliteBook 850G3",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124175",
+    "Summary": "EPE f�r Skylake",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124173",
+    "Summary": "EPE - Netzwerkkarte wird nicht unterst�tzt",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124137",
+    "Summary": "Problem beim betanken eines Notebooks mit Win7 64 Bit Enterprise",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124129",
+    "Summary": "Error while booting Surface Pro 4 with new EPE 4.0.7",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124123",
+    "Summary": "Installation Lenovo Ideapad 500S",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124117",
+    "Summary": "#CIT02503 - EPE Version 4.0 bringt Fehler.. Feedback erforderlich.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124113",
+    "Summary": "MachineID / PXESpy mit EPE4",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124090",
+    "Summary": "Intel 6th Skylake / Realtek Netzwerkkarte / Keine Connectionen",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124082",
+    "Summary": "Spy - Problem",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124076",
+    "Summary": "OS Installationen",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124018",
+    "Summary": "Probleme beim PXE Boot",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T124002",
+    "Summary": "EPE 4.07 Kernel und Ger�teunterst�tzung",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123988",
+    "Summary": "OS Installationsproblem Skylake",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123949",
+    "Summary": "Empirum v16.0.2: Skylake Prozessoren",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123943",
+    "Summary": "Teilnahme an dem Betatest f�r EPE4",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123940",
+    "Summary": "Empirum PE hat Probleme mit neuer Hardware",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123919",
+    "Summary": "Latitude 11 fails to install",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123918",
+    "Summary": "EPE 4 mountet nicht",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123908",
+    "Summary": "[Eis32] Error No: 407 (EisError 401) The target device for installation cannot be detected!",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123864",
+    "Summary": "EPE 4.0 wird ben�tigt",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123863",
+    "Summary": "Frage zu richtigen Kernel bei Betankung eines Surface 3",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123856",
+    "Summary": "DELL XPS 13 und PXE",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123824",
+    "Summary": "Either no ethernet inteerfaces are existing or the driver could not be loaded",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123805",
+    "Summary": "EPE findet keine Netzwerkkarte",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123788",
+    "Summary": "EPE 4.x f�r Skylake Hardware",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123772",
+    "Summary": "PE-Boot schl�gt fehl",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123759",
+    "Summary": "EPE 4.0.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123738",
+    "Summary": "Lenovo Thinkpad Tablet 10 EPE Error - RathenowerOptik / Fielmann",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123672",
+    "Summary": "EPE4 zum Test neuer Hardware ben�tigt",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123671",
+    "Summary": "Upgrade to EPE 4.0.4",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123652",
+    "Summary": "EPE4 UEFI Windows 7",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123651",
+    "Summary": "Aufnahme in den EPE4 Rollout",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123650",
+    "Summary": "HP EliteDesk 800 G2 kann nicht integriert werden",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123633",
+    "Summary": "NETSPY erkennt die MaschineID von DELL XPS 13 nicht richtig",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123631",
+    "Summary": "kein Speichermedium bei Surface3",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123625",
+    "Summary": "Installation Lenovo Ultrabook T450",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123613",
+    "Summary": "Skylake / Series 100 Chipset",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123611",
+    "Summary": "#TAP47853 - PXE NIC Treiber. Feedback erforderlich.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123604",
+    "Summary": "EPE4",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123583",
+    "Summary": "HP Elitebook 850 G3",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123574",
+    "Summary": "PXE EP2",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123556",
+    "Summary": "Netzerkkartentreiber nicht in Bootkernel",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123553",
+    "Summary": "EPE 404 - keine Betankung eines Surface 4 m�glich",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123537",
+    "Summary": "EPE Fehler [networking] Either no ethernet interfaces are existing or the driver cound not be loaded!",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123514",
+    "Summary": "15.1 Patch 9:  EPE Probleme bei neuer Hardware Intel Mainboard Q170",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123467",
+    "Summary": "OS-Installation mit \"Skylake\" Hardware",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123453",
+    "Summary": "HP EliteDesk 800 G2",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123448",
+    "Summary": "Betankung mit HP-USB-to-Ethernet-Adapter funktioniert nicht",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123442",
+    "Summary": "Kein passender Netzwerkkartentreiber",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123430",
+    "Summary": "PWPM 16.02: Intel Skylake Unterst�tzung",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123416",
+    "Summary": "EPE Error HP Elitedesk 800 G2 Tower",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123388",
+    "Summary": "#DSPI003113 - K�ster | Empirum | Skylake Support - 43669. Feedback erforderlich.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123386",
+    "Summary": "#DSPI003126 - SIEGENIA | Empirum | T123277 - Probleme bei Powershell Script Ausf�hrung. Feedback erforder...",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123370",
+    "Summary": "#IFD01687 - EPE f�r Skylake Betatester",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123353",
+    "Summary": "error wit new Dell XPS 13 9350 system: [Eis32] Error No: 407 (EisError 401) The target device for installation cannot be detected!",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123336",
+    "Summary": "Fehler beim Installieren von PC Typ HP EliteDesk 800 G2 mit SSD, DDR4",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123332",
+    "Summary": "Netspy funktioniert mit neuem HP Client Elitedesk 800 G2 DM und TWR nicht mehr",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123329",
+    "Summary": "Verbindung zum Server wird anscheinend nicht hergestellt",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123314",
+    "Summary": "Support Intel Skylake Hardware",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123306",
+    "Summary": "#CIT02402 - EPE Error no suitable interface found..... Feedback erforderlich.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123287",
+    "Summary": "Acer TravelMate P238-M-5575",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123257",
+    "Summary": "Frage nach EPE Kernel",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123248",
+    "Summary": "Neuster Intel Chipsatz Skylake",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123247",
+    "Summary": "Empirum erkennt neue Rechner nicht",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123221",
+    "Summary": "Empirum HardwareProfil",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123197",
+    "Summary": "Marketplace EPE 4",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123178",
+    "Summary": "Linux Boot mit Dell Optiplex 5040 findet kein Netz",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123161",
+    "Summary": "EPE402 Fujitsu Esprimo D756",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123154",
+    "Summary": "#DSPI003114 - Klinimum Fulda | Empirum | Marketplace EPE4. Feedback erforderlich.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123110",
+    "Summary": "Empirum 16.0.2.3955: Problem beim Aufsetzen von DELL Optiplex 3040 �ber EPE",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123091",
+    "Summary": "EPE4",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123074",
+    "Summary": "EPE Problem Z440",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123055",
+    "Summary": "PXE Installation Microsoft Surface Pro 4",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123050",
+    "Summary": "Anfrage unterst�tzung Skylake Chips�tze PXE Boot",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123034",
+    "Summary": "Einbindung Dell Precision Tower 3620",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123008",
+    "Summary": "15.1. Patch 9 Treiberaktualisierung derzeit nicht m�glich",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T123003",
+    "Summary": "Netzwerkkarte nicht gefunden",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122999",
+    "Summary": "Installation PXE von Skylake  PCs",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122998",
+    "Summary": "Matrix42 Bootimage Upgrade To EPE 4.0",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122983",
+    "Summary": "Unable to deploy operating systems to Skylake",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122951",
+    "Summary": "Teilnahme am Skylake-Testprogramm",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122937",
+    "Summary": "Dell Optiplex 5040 EPE Boot",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122913",
+    "Summary": "PXE Image ab 3_005 nicht m�glich",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122911",
+    "Summary": "Dringlichkeit: ASAP Linux Kernel fehlt der Treiber",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122892",
+    "Summary": "Bootimage Upgrade To EPE 4.0",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122866",
+    "Summary": "Matrix42 Bootimage Upgrade To EPE 4.0 - Intel Skylake Support",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122860",
+    "Summary": "EPE 4.0 zusenden",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122858",
+    "Summary": "[4.10] Verl�ngerung des kontrollierten Rollouts des Tools Matrix42 Bootimage Upgrade To EPE 4.0",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122843",
+    "Summary": "#CIT02349 - EPE 4.0 Skylake. Feedback erforderlich.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122833",
+    "Summary": "Empirum PXE Installation Error No. 110 (EisError 505/306)",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122828",
+    "Summary": "Notebook macht keinen Neustart  Stand: Matrix42_CLM_2015 Update02 mit EPE4.0       BIOS = UEFI  + Sata Option = AHCI",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122787",
+    "Summary": "Neue Ger�te die Natzwerkkarte im PXE-Bootimage nicht enthalten",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122750",
+    "Summary": "Empirum SPY File wird nicht erstellt",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122741",
+    "Summary": "EPE und Intel i219-v (Skylake)",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122716",
+    "Summary": "16.0.3 HP Prodesk 400 G2 - Eis Error 407",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122616",
+    "Summary": "Skylake Support",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122419",
+    "Summary": "EPE 4.0",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122397",
+    "Summary": "Error No. 416 (EisError 155)",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122343",
+    "Summary": "EPE - no suitable interfaces found",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122338",
+    "Summary": "PXE-Installation auf Lenovo M900z // Netzwerkkarte wird nicht erkannt",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122335",
+    "Summary": "Skylake Problematik",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122326",
+    "Summary": "Skylake Problematik",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122251",
+    "Summary": "[#20160118-0058] HP ProDesk 400 G2",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122249",
+    "Summary": "16 Probleme mit dem EPE",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122190",
+    "Summary": "Hardwareprofil HP Probook 650 G2 Intel I219LM/V Gigabit Ethernet Driver",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122163",
+    "Summary": "Zdenko Pulko",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122133",
+    "Summary": "[4.10}PXE issues HP EliteDesk 800",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122129",
+    "Summary": "HP ProDesk 400G2 DM",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122118",
+    "Summary": "Betriebssysteminstallation nicht m�glich",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122117",
+    "Summary": "EISERROR 401 bei EPE Boot",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122100",
+    "Summary": "Spy Disk kann nicht erstellt werden",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T122082",
+    "Summary": "PXE  Installation",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121929",
+    "Summary": "Probleme Einbinden Hp Elitedesk 800 G2",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121873",
+    "Summary": "disk partitioning",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121872",
+    "Summary": "Fehler bei OS Installation",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121861",
+    "Summary": "NIC in PE nicht gefunden",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121856",
+    "Summary": "Empirum PE2 3.7.7-gentoo_3.56 kann keine Netzwerkverbindung mit HP-EliteDesk 800 G2 Tower aufbauen",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121816",
+    "Summary": "Ger�te mit Netzwerkadapter Intel I219-LM lassen sich wegen nicht erkannter Netzwerkkarte nicht installieren.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121809",
+    "Summary": "#DSPI003062 - Meda Pharma | Empirum | Installation einer Client-Maschine schl�gt fehl. Feedback erforderl...",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121805",
+    "Summary": "Dell Inspiron 5559 - Festplatte wird nicht erkannt",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121790",
+    "Summary": "EPE Findet bei neuer Serie Fujitsu Esprimo Q556 keine Festplatte",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121779",
+    "Summary": "Surface 4 & Surface Book",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121764",
+    "Summary": "Probleme bei der Treiberinstallation unter Win7 x64 Pro beim Rechnermodell HP EliteDesk 800 G2 TWR",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121761",
+    "Summary": "Installation �ber Netzwerk nicht m�glich",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121714",
+    "Summary": "EPE Version veraltet ?",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121704",
+    "Summary": "EPE boot mit Intel I219",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121700",
+    "Summary": "Installation Surface Pro 4",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121681",
+    "Summary": "[Eis32] Error No: 407 (EisError 401) The target device for installation cannot be detected!",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121665",
+    "Summary": "PXE-Install Microsoft Surface 4 Pro",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121664",
+    "Summary": "PXE Boot no suitable Interface found",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121656",
+    "Summary": "Dell e5450",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121620",
+    "Summary": "Bootimage erkennt Netzwerkkarte nicht",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121564",
+    "Summary": "Fehler bei WinPE Driver Injection - Unknown Error",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121560",
+    "Summary": "Empirum-Installation von 'Surface Pro 4' ist nicht m�glich.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121553",
+    "Summary": "Fehlender Netzwerktreiber im EPE",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121522",
+    "Summary": "Fujitsu Esprimo Q556 meldet The target device for installation cannot be detected",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121517",
+    "Summary": "PXE Installation nicht m�glich - NIC nihct erkannt",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121465",
+    "Summary": ".SPY -Datei kann nicht generiert werden",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121405",
+    "Summary": "PXE Error 407 bei Fujitsu Celsius C740",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121354",
+    "Summary": "EPE Boot funktioniert nicht",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121317",
+    "Summary": "OS Imstallation Error",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121306",
+    "Summary": "Treiberproblem EPE",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121300",
+    "Summary": "EPE-Image HP EliteDesk 800 G2 SFF",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121294",
+    "Summary": "Empirum V16.02 HP ProDesk600G2 EPE",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121280",
+    "Summary": "Unterst�tzung Skylake Chipsatz",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121264",
+    "Summary": "DELL Precision 7510 - EPE - no suitable Interface found",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121186",
+    "Summary": "16.0.0 Rechner k�nnen nicht installiert werden",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121161",
+    "Summary": "Probleme mit PXE (Netzwerkkartentreiber I219-V)",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121136",
+    "Summary": "[B]Problem Empirum v16: Treiber-Injection in EPE (Intel Ethernet Connection I219-LM)",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121107",
+    "Summary": "EPE PXE Boot findet keine Netzwerkkarte UEFI",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121096",
+    "Summary": "Hardware-Spy funktioniert nicht - Netzwerkkarten Treiber kann nicht geladen werden",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121095",
+    "Summary": "Empirum - Unterst�tzung Skylake Chipsatz",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121086",
+    "Summary": "OS-Installer Fehler bei neuen PC-Modell: HP ProDesk 400 G3 MT",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121048",
+    "Summary": "Surface Pro 4 EPE Bildschirm schwarz",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T121021",
+    "Summary": "Empirum Installationsprobleme Elitedesk 800 G2",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120974",
+    "Summary": "16.0.1 Rechner l�sst sich nicht aufsetzen",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120966",
+    "Summary": "Probleme bei der Installation",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120952",
+    "Summary": "Dell Ger�te Integration",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120882",
+    "Summary": "Dell Precision Tower 3620 EPE Netzwerk",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120863",
+    "Summary": "Problem mit Netzwerkkarte neuer Lenovo Ger�te",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120842",
+    "Summary": "Installationsprobleme mit Intel Skylake-Prozessoren",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120799",
+    "Summary": "PXE - no suitable interfaces found",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120785",
+    "Summary": "EisError 401",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120650",
+    "Summary": "Empirum 15.1 patch9 : OS Installation failed on Dell Precision T3620",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120618",
+    "Summary": "#DSPI002996 - Siegnia | Empirum | #T120603 - URGENT: Beim booten - tsc fast calibration fehlt.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120592",
+    "Summary": "Empirum16.0.2.3955 Treiber Injektion",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120590",
+    "Summary": "EPE Image l��t sich nicht einbinden",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120568",
+    "Summary": "HP EliteDesk 800 G2",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120538",
+    "Summary": "Neue Hardware kann nicht eingelesen werden",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120521",
+    "Summary": "Fragen zur Offline-Installation",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120513",
+    "Summary": "OS Installation Dell Optiplex 3240 AIO",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120512",
+    "Summary": "Installation MS Surface Pro 4",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120455",
+    "Summary": "neue Hardware DELL OptiPlex 7040 und precision Notebook 7710",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120443",
+    "Summary": "PXE Boot finden keine NIC",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120328",
+    "Summary": "#TAP47133 - EPE erkennt Netzwerkkarte nicht. Feedback erforderlich.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120193",
+    "Summary": "Support- Anfrage HW- Pflege neue DELL-HW",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120186",
+    "Summary": "Netzwerktreiber wird nicht erkannt",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120185",
+    "Summary": "Surface 4 Probleme mit OS Installer",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120107",
+    "Summary": "Emprirum Pro 16.0.2.3955 OS-Installer",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120099",
+    "Summary": "EPE - Fehlender Netzwerktreiber / Keine Netzwerkkonnektivit�t",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120065",
+    "Summary": "PXE Boot verursacht Probleme",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120061",
+    "Summary": "Netzwerkkarte wird von EPE nicht erkannt",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T120012",
+    "Summary": "EPE Netzwerkfehler",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119990",
+    "Summary": "EMPIRUM Dell Precision 7710 NETSPY",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119937",
+    "Summary": "16.0.2 Microsoft Surfacebook - UEFI ansich funktioniert, aber bleibt stehen w�hrend der letzten EPE Z�ge",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119910",
+    "Summary": "No suitable interface found",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119756",
+    "Summary": "Surface 4 Installation",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119743",
+    "Summary": "Installation von Windows7 64bit auf M2-SSD",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119740",
+    "Summary": "PXE Boot von HP EliteDesk 800 G2 nicht m�glich",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119722",
+    "Summary": "[Eis32] Error No: 407 (EisError 401) The target device for installation cannot be detected!",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119699",
+    "Summary": "Empirum PE2 3.14.4-gentoo_3.74 - [Eis32] Error No: 407 (EisError 401) The target device for installation cannot be detected!",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119682",
+    "Summary": "bei EPE Boot wird Netzwerkkarte nicht erkannt [vor Ort]",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119649",
+    "Summary": "Microsoft Surface 4 OS Installationsproblem",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119632",
+    "Summary": "Hardware wird nicht erkannt",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119631",
+    "Summary": "Win 10 Installation Surface 3",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119630",
+    "Summary": "Treiberprobleme",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119569",
+    "Summary": "PXE Problem beim 800G2",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119544",
+    "Summary": "Problem EPE -> keinen Treiber f�r NIC von Optiplex 5040",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119541",
+    "Summary": "EPE | diverse Probleme mit neuer Hardware",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119473",
+    "Summary": "Empirum Preboot Environment (EPE): LoadingRamDisk am Surface Pro4 - Win10",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119342",
+    "Summary": "Surface 4 Pro - UEFI Boot funktioniert nicht",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119335",
+    "Summary": "Netspy l�uft pausenlos durch",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119244",
+    "Summary": "#IFD01486 - Fehler PXE-UEFI. Feedback erforderlich.",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119205",
+    "Summary": "OS Betankung eines Microsoft Surface 4 Pro",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T119099",
+    "Summary": "PXE Spy funktioniert nicht",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T118987",
+    "Summary": "EmpPE keine Netzwerktreiber f�r Dell Optiplex 7040",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T118948",
+    "Summary": "EPE Kernel Versionen",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T118903",
+    "Summary": "Empirum V15.1 Patch 9, kein PXE Boot mit neuer Intel I219LM NIC m�glich",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T118894",
+    "Summary": "[#20151124-0026] PXE Installation OptiPlex 5040. Kein Netzwerk",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T118847",
+    "Summary": "Skylake & Windows 10 Treiber",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T118830",
+    "Summary": "OS Installation HP ProDesk 600 G2",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T118808",
+    "Summary": "OS Installation neues Hardwaremodell",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T118774",
+    "Summary": "Consultant vor Ort: MEDA Pharma - PXESpy bei Fujitsu E Series",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T118745",
+    "Summary": "EP2 scheitert auf \"HP EliteDesk 800 G2\" mit Fehler: No linked interface found",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T118696",
+    "Summary": "EPE erkennt die Netzwerkkarte nicht",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T118627",
+    "Summary": "#TAP46817 - Fehler Win 10 OS Installation MS Surface 3",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T117828",
+    "Summary": "Intel� Ethernet Connection I219-LM wird durch Empirum PE2 v3.74 - 03.007 nicht erkannt",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T117628",
+    "Summary": "UEFI-Fehler bei der Installation Surface 3 LTE - Error No: 407 (EisError 401)",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T117478",
+    "Summary": "EPE",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "T112117",
+    "Summary": "#TAP45413 - Screenshots im Portal Dialog werden nicht zu den Attachments hinzugef�gt. Feedback erforderli...",
+    "Problem": 1
+  },
+  {
+    "Ticket ID": "Ticket ID",
+    "Summary": "Summary",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T86206",
+    "Summary": "#TAP20700 - Anwendungs�nderungen werden von Empirum nicht in den Service Store synchronisiert. Feedback e...",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T78188",
+    "Summary": "Software Microsoft, Office Small Business 2003 32Bit l�sst sich nicht aus Inventory entfernen",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T76287",
+    "Summary": "Lizenzfehlbestand liefert widerspr�chliche Wert zwischen dem Report und dem Detailreport",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T74183",
+    "Summary": "Problem mit Inventarisierungsdaten von EMpirum V14 in Suite 5.3",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T67120",
+    "Summary": "Empirum Inventory: Rechner werden nicht richtig gescannt (dringend)",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T65473",
+    "Summary": "�bernahme Inventorydaten Empirum <--> Service Store",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T65095",
+    "Summary": "Installationen werden im Lizenzmanagement nicht �bernommen",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T65022",
+    "Summary": "Softwareinventar wird nicht aktualisiert",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T64640",
+    "Summary": "MATRIX Service Store: Fehlende Clients",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T64162",
+    "Summary": "Stadt Reutlingen: �bermittlung der Anwendungen in Service Store nicht vollst�ndig",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T63603",
+    "Summary": "neu Ticket - Fehlend Inventar",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T63154",
+    "Summary": "Daten in Empirum und Service store unterschiedlich",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T62152",
+    "Summary": "Installationen taucht nicht im Service Store auf",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T61927",
+    "Summary": "Empirum Konnektor",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T61864",
+    "Summary": "fehlende Aktualisierung der Inventardaten",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T61762",
+    "Summary": "Error Message: Do not have sufficient permissions to view this tab",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T61543",
+    "Summary": "Installationen werden nicht richtig von Empirum �bernommen",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T61206",
+    "Summary": "Unvollst�ndiges Anwendungsinventar im ServiceStore",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T61140",
+    "Summary": "Inventarinformationen von Service Store und Empirum stimmen nicht �ber ein",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T61124",
+    "Summary": "Empirum Inventory Daten werden nicht vollst�ndig in Servicestore geladen",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T60832",
+    "Summary": "Inventorydaten werden nicht in ServiceStore �bernommen",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T60816",
+    "Summary": "5.32.0904 - Empirum Softwareinventory wird nur teilweise importiert",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T60655",
+    "Summary": "ServiceStore - keine Lizenzinformationen von Empirum �bertragen",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T60285",
+    "Summary": "Fehler im ServiceStore Empirumkonnektor",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T60253",
+    "Summary": "Ge�ndertes Office Produkt wird nicht erkannt",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T59986",
+    "Summary": "Synchronisation zwisachen der Empirum-DB und ServiceStore Console. Feedback erforderlich.",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T59979",
+    "Summary": "Archive ldf w�chst immer wieder an",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T59816",
+    "Summary": "Inventory Problem",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T59669",
+    "Summary": "Software die Empirum Inventory erkennt, ist nicht im Servicestore",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T59409",
+    "Summary": "Inventory �bertr�gt nicht alle Daten in den Service Store",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T58657",
+    "Summary": "Software Inventory wird nicht vollst�ndig eingelesen",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T58610",
+    "Summary": "Softwareanzeige in Empirum und Service Store unterschiedlich",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T58572",
+    "Summary": "Georg Fischer: Empirum Import schl�gt fehl nach Update auf 5.33.0924",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T58430",
+    "Summary": "Betriebsystem Installatoin wird im Service Store nicht angezeigt.",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T58339",
+    "Summary": "U4U Suite Archiv w�chst t�glich um 10% an",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T58185",
+    "Summary": "Empirum Konnektor-Fehler bei Synchronisation",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T58175",
+    "Summary": "Hotfix_5.33.0924_20120531 - PRB24201",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T58070",
+    "Summary": "unerkl�rliche Effekte beim Empirum-Konnektor: Nicht alle Software installation werden in den Store importiert.",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T57977",
+    "Summary": "Software wird nicht im Store angezeigt, in Empirum sind aber alle Softwarepakete vorhanden",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T57874",
+    "Summary": "Update der Anzahl der Installation l�uft scheinbar nicht",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T57873",
+    "Summary": "Inventarisierung funktioniert teilweise nicht",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T57783",
+    "Summary": "Installation eines Pakets wird im M42 Service Store nicht angezeigt",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T57721",
+    "Summary": "Inv. Anwendung im Asset Management wird nicht angezeigt �ber Empirumimport",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T57573",
+    "Summary": "Deinstallationen werden �ber EMP_Konnektor nicht korrekt importiert",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T57189",
+    "Summary": "Installierte SW wird bei XP Clients nicht angezeigt",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T56842",
+    "Summary": "Installationen tauchen auf und werden wieder gel�scht, vermutlich wenn der Hersteller der SW fehlt",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T56714",
+    "Summary": "Ben�tige Patch f�r 5.33.0924",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T56523",
+    "Summary": "Lizenzbedarf der im Lizenzmanagement M42 angezeigt wird stimmt nicht mit den Inventarisierungsdaten von Empirum �berein",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T56293",
+    "Summary": "Fingerprints von Betriebssystemen verschwinden �ber Nacht aus dem Service Store und werden nicht immer sauber reimportiert",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T56290",
+    "Summary": "Lizenzmanagement: Installationen und Fingerprints",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T56117",
+    "Summary": "itl: Inventarisierung fehlerhaft",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T56114",
+    "Summary": "Anzahl der Installierten Software in Empirum&ServiceStore ist identisch aber nicht die Software",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T56021",
+    "Summary": "#INC02717 - Schnitstelle Inventory Empirum - ServiceStore. Feedback erforderlich.",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T55455",
+    "Summary": "Office 2003 Fingerprint wird im ServiceStore nicht vollst�ndig erkannt",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T55403",
+    "Summary": "Inventory is not updated after changes to installed software",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T55353",
+    "Summary": "EmpirumSoftwareImport nach Service Store ist teilweise unvollstaendig",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T55222",
+    "Summary": "Zuordnung von Fingerprints zu Softwareprodukten ist l�ckenhaft",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T54986",
+    "Summary": "Problem mit den importen aus dem SCCM-Connector",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T54847",
+    "Summary": "Import vom Empirum zum Service Store funktioniert nicht richtig.",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T54798",
+    "Summary": "Hotfixe f�r Rhenus 5.33.924",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T54567",
+    "Summary": "Neue mit Empirum bespielte Rechner besitzen im Service Store nicht die korrekten Inventarisierungs-Daten aus Empirum.",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T54406",
+    "Summary": "Inventarisierte Software wird nicht im Service Store angezeigt",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T54134",
+    "Summary": "Computerinventar wird nicht korrekt aktualisiert",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T53888",
+    "Summary": "Nicht alle Software-Installationen, die von Inventory ermittelt wurden, werden importiert",
+    "Problem": 2
+  },
+  {
+    "Ticket ID": "T97646",
+    "Summary": "AD-Konnektor f�hrt DTS-Paket nicht mehr aus",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T82880",
+    "Summary": "AD Import 'DTSStep_DTSCreateProcessTask_ImportUsers' failed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T78505",
+    "Summary": "AD-Konnektor: Import bestimmter Benutzerkonten schl�gt fehl",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T71848",
+    "Summary": "Fehler im AD Import 'DTSStep_DTSCreateProcessTask_ImportUsers'",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T69404",
+    "Summary": "Betreff: AD Konnektor schl�gt fehl. Package failed because Step 'DTSStep_DTSCreateProcessTask_ImportUsers' failed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T69204",
+    "Summary": "AD Konnektor schl�gt fehl DTSStep_DTSCreateProcessTask_ImportUsers' failed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T68502",
+    "Summary": "AD Konnektor Problem 'DTSStep_DTSCreateProcessTask_ImportUsers'",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T65027",
+    "Summary": "AD Connector",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T64718",
+    "Summary": "AD-Konnektor Import funktioniert nicht.",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T63574",
+    "Summary": "AD Connector Package failed because Step 'DTSStep_DTSCreateProcessTask_ImportUsers' failed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T62664",
+    "Summary": "AD-Konnector l�uft auf Fehler",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T61960",
+    "Summary": "Service Store: AD-Import schl�gt fehl, was sollte unser Administrator pr�fen?",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T61377",
+    "Summary": "Fehler im AD-Konnektor",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T61254",
+    "Summary": "Servicestore AD Konnektor reportet Fehler",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T59069",
+    "Summary": "AD Import nok",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T56815",
+    "Summary": "AD Konnektor Importiert keine Daten mehr: Fehler im Step Importusers",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T56402",
+    "Summary": "servicekatalog AD connector : System.Runtime.InteropServices.COMException (0x80040428): Package failed because Step 'DTSStep_DTSCreateProcessTask_ImportUsers' failed.",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T56069",
+    "Summary": "[Carl Zeiss] AD Konnektor Fehler",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T55273",
+    "Summary": "Fehler beim AD-Konnektor seit dem Patch",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T55107",
+    "Summary": "Step 'DTSStep_DTSCreateProcessTask_ImportUsers' failed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T54889",
+    "Summary": "AD Konnektor - DTSStep_DTSCreateProcessTask_ImportUsers",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T54773",
+    "Summary": "Anmeldeprobleme an den Service Store wenn User nicht dem angemeldeten Windows-User entspricht",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T54500",
+    "Summary": "Fehler beim AD Import - DTSStep_DTSCreateProcessTask_ImportUsers",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T54430",
+    "Summary": "Hotfixe f�r Kunden Gerresheimer im Testsystem",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T54267",
+    "Summary": "Package failed because Step 'DTSStep_DTSCreateProcessTask_ImportUsers' failed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T54223",
+    "Summary": "Package failed because Step 'DTSStep_DTSCreateProcessTask_ImportUsers' failed.",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T54216",
+    "Summary": "AD Konnektor schl�gt fehl --> Package failed because Step .....",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T54205",
+    "Summary": "Ad Import Fails",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T54129",
+    "Summary": "Neue AD-Benutzer werden nicht mehr in den Service Store �bertragen werden.",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T54109",
+    "Summary": "Hotfix zu PRB24054 und PRB24036",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T54041",
+    "Summary": "AD Konnektor funktioniert nicht mehr AD connector fails with DTS error: Package failed because Step 'DTSStep_DTSCreateProcessTask_ImportUsers' failed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T53962",
+    "Summary": "Fehler Import: System.Runtime.InteropServices.COMException (0x80040428): Package failed because Step 'DTSStep_DTSCreateProcessTask_ImportUsers' failed.",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T53950",
+    "Summary": "Fehler bei Schritt 'DTSStep_DTSCreateProcessTask_ImportUsers'",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T53755",
+    "Summary": "AD Konnektor funktioniert nicht: Step 'DTSStep_DTSCreateProcessTask_ImportUsers' was not executed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T53717",
+    "Summary": "Error DTSTask_DTSCreadteProcessTask_ImportUsers",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T53616",
+    "Summary": "Bitte hotfix zum Problem24036 zusenden",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T53503",
+    "Summary": "Synchronisation mit dem AD geht nicht mehr",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T53498",
+    "Summary": "Nach Patch 5.32.0904: DTSTask_DTSCreateProcessTask_ImportUsers",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T53375",
+    "Summary": "Problem mit AD-Konnektor",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T53237",
+    "Summary": "Package failed because Step 'DTSStep_DTSCreateProcessTask_ImportUsers' failed.",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T53174",
+    "Summary": "AD Connector bricht mit der Meldung ab: 'DTSStep_DTSCreateProcessTask_ImportUsers' failed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T53104",
+    "Summary": "DTSStep_DTSCreateProcessTask_ImportUsers' failed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T53004",
+    "Summary": "Fehler bei Active Directory Syncronisierung vom Servicedesk",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T52858",
+    "Summary": "AD Konnektor bricht ab mit Fehlermeldung \"Package failed because Step 'DTSStep_DTSCreateProcessTask_ImportUsers' failed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T52857",
+    "Summary": "Package failed because Step 'DTSStep_DTSCreateProcessTask_ImportUsers' failed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T52823",
+    "Summary": "Problem mit AD-Konnektor unter der Version 5.32.904",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T52804",
+    "Summary": "Step 'DTSStep_DTSCreateProcessTask_importUsers' failed",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T52728",
+    "Summary": "AD Import bricht ab im Schritt \"'DTSStep_DTSCreateProcessTask_ImportUsers",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T52666",
+    "Summary": "Active Directory Connector DTS Error",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T52663",
+    "Summary": "Fehler bei Import mit AD-Konnektor",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T52662",
+    "Summary": "AD Connector funktioniert nach Update nicht mehr",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T52517",
+    "Summary": "AD Konnektor Import Fehlerhaft",
+    "Problem": 3
+  },
+  {
+    "Ticket ID": "T79986",
+    "Summary": "Service Desk: 5.33.9560 Problem mit dem Client Active X Control, wird nicht geladen, Dropdownliste blitzt nur auf und kann nicht verwendet werden",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T76735",
+    "Summary": "MS Sicherheitsupdate + Patch in M42 Workplace Manage ment auch f�r 5.31.862 m�glich?",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T75578",
+    "Summary": "Auswahl von Benutzer/Initiator aus der DropDown-Liste nicht m�glich",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T75390",
+    "Summary": "Benutzer�nderung bei Aktion \"E-Mail senden\" nicht m�glich",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T75387",
+    "Summary": "After installation of update users cannot choose categories",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T75362",
+    "Summary": "Der Link zum Hotfix wurde entfernt",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T75361",
+    "Summary": "Hat die 5.33.946 ben�tigen den neuen HF. Feedback erforderlich.",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T75156",
+    "Summary": "Bei der Benutzerauswahl kann im DropDown Feld bei mehreren Eintr�gen keine Auswahl getroffen werden",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T75128",
+    "Summary": "Nachfrage wegen Hotfix f�r 5.33.946 (Kumulative Sicherheitsupdate MS13-055 )",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74956",
+    "Summary": "Benutzer nicht mehr per Maus anw�hlbar",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74906",
+    "Summary": "Scriptfehler und Wei�e Masken!",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74867",
+    "Summary": "St�rungsbeschereibungen verschwinden",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74558",
+    "Summary": "Hotfix PRB25665 f�r die Version 532.0880",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74474",
+    "Summary": "MS Sicherheitsupdate f�hrt zu St�rung in Matrix42 Workplace Management",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74465",
+    "Summary": "Hotfix 5.33.0972_20130725 - PRB25110 PRB25665.zip",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74417",
+    "Summary": "Bildschirm flackert nach der Auswahl eines Formulars. Hilft hier der Hotfix?",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74410",
+    "Summary": "Hotfix PRB25665 funktioniert nicht, produziert diverse Fehler",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74398",
+    "Summary": "WG: Wichtige Support Meldung: MS Sicherheitsupdate f�hrt zu St�rung in Matrix42 Workplace Management",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74306",
+    "Summary": "WG: Wichtige Support Meldung: Download Links Hotfix / Patch 1 f�r Matrix42 Workplace Management",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74291",
+    "Summary": "Ben�tigen den Hotfix PRB25665 f�r die Version 5.33.934",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74276",
+    "Summary": "WG: Wichtige Support Meldung: MS Sicherheitsupdate f�hrt zu St�rung in Matrix42 Workplace Management",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74272",
+    "Summary": "Fehler beim Ausf�hren von UIQueriesValidator.exe",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74245",
+    "Summary": "Service Desk: 5.33.0956 kein Zugriff auf Dropbox, Fix muss per E-Mail geschickt werden",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74239",
+    "Summary": "Hotrix ben�tigt PRB25665",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74221",
+    "Summary": "Service Desk: 5.33.0946 Mehrfachauswahlfelder k�nnen mit der Maus nicht angesteuert werden",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74202",
+    "Summary": "PRB25665 - 5.32.886: Gibt es daf�r auch einen Fix? Ist das Microsoftpaket auf der Client- oder auf der Serverseite?",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74195",
+    "Summary": "Hotfix f�r PRB25665 ben�tigt",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74185",
+    "Summary": "WG: Wichtige Support Meldung: MS Sicherheitsupdate f�hrt zu St�rung in Matrix42 Workplace Management",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74181",
+    "Summary": "Hotfix f�r PRB25665 ben�tigt.",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74175",
+    "Summary": "Service Desk: Hat die 5.33.946 ben�tigen den neuen HF",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74173",
+    "Summary": "Hotfix for MS Security Update",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74172",
+    "Summary": "Hotfix f�r PRB25665",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74170",
+    "Summary": "Kunde ben�tigt den Hotfix, der die Probleme, verusacht durch den Microsoft Patch, l�st",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74166",
+    "Summary": "Bitte dringend den Hotfix f�r Matrix42 Service Store 5.3 SP3 Patch 6 (5.33.0977) bereitstellen",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74164",
+    "Summary": "WG: Wichtige Support Meldung: MS Sicherheitsupdate f�hrt zu St�rung in Matrix42 Workplace Management",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74149",
+    "Summary": "Problem mit der Funktion E-mail senden im Ticket",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74087",
+    "Summary": "Linksklick mit Maus in Dropdown Feldern nicht mehr m�glich",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T74008",
+    "Summary": "M42-Fehler \"Benutzer / Initiator wurde nicht angegeben",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T73959",
+    "Summary": "St�rung Name aus Vorschl�gen ausw�hlen - Product Version: 5.33.956.0",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T73958",
+    "Summary": "E-mail senden aus St�rung - Product Version: 5.33.956.0",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T73812",
+    "Summary": "Auswahl eines Benutzers mit der Maus unter IE9 nicht m�glich",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T73779",
+    "Summary": "Problem beim Versenden einer E-Mail aus einem Ticket",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T73751",
+    "Summary": "Problem mit Anlagen bei einem Problem Ticket",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T73690",
+    "Summary": "TypeAhead per Maus nicht bedienbar - Es konnten keine passenden Ergebnisse gefunden werden",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T73636",
+    "Summary": "Dropdownfeld, anklicken w�hlt Wert nicht aus",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T73610",
+    "Summary": "Fehlermeldung Benutzer / Initiator wurde nicht angenommen beim Schreiben einer E-Mail aus dem Ticket heraus (sowohl beim Beibehalten als auch �ndern des Benutzers, nur bei Windows 8)",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T73595",
+    "Summary": "Auswahl in LinkView reagiert nicht auf Maus-Click",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T73350",
+    "Summary": "Fehler beim Versenden einer Mail aus Tickets",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T73089",
+    "Summary": "Mails k�nnen nicht mehr verschickt werden - Es wurde kein Initiator oder Benutzer angegeben",
+    "Problem": 4
+  },
+  {
+    "Ticket ID": "T72733",
+    "Summary": "Empirum PM 15 startet und beendet sich gleich",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72697",
+    "Summary": "Probleme Patchmanagement V2",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72538",
+    "Summary": "Patch Management V2",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72395",
+    "Summary": "Patchmanagement V14.1",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72344",
+    "Summary": "Service Desk: Ben�tigt den Hotfix f�r Pmv2 V14.2",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72343",
+    "Summary": "Problem mit Pmv2 V15.1",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72337",
+    "Summary": "Patchmanagement V2 l�uft durch, installiert aber nichts, verwendet wird PM 2 Version 14.1!!!",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72315",
+    "Summary": "PM2 Client startet auf frisch installiertem Rechner  keinen Scan mehr",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72295",
+    "Summary": "Patch-Management V2 installiert keine Patche",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72287",
+    "Summary": "PM V 2 l�uft nicht",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72283",
+    "Summary": "Service Desk: Hartmut Awe: Update auf V15.0 kein scannen +install m�glich im Patchmanagement",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72282",
+    "Summary": "PM V2  - Alle Scans gehen nicht mehr",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72275",
+    "Summary": "Patchmanagement V2, seit Januar keine Patches mehr erhalten",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72254",
+    "Summary": "Probleme mit PM2",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72253",
+    "Summary": "Empirum Patch-Management Client (v2) - Detectoids.xml",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72249",
+    "Summary": "Patchmanagment_v2 Scan funktioniert nicht",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72234",
+    "Summary": "PM2Client.exe funktioniert seit dem 24.06.13 nicht mehr",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72225",
+    "Summary": "PM2 startet nicht auf neu installierten PC",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72222",
+    "Summary": "Patches mit PM2 werden nicht installiert",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72199",
+    "Summary": "Patches werden nicht mehr instlliert",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72175",
+    "Summary": "PatchManagement (ClientV2) installiert, scannt und patcht aber nicht",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72168",
+    "Summary": "AW: #KBA00790 - Patmanagement 2 funktioniert nicht mehr.",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72160",
+    "Summary": "AW: #KBA00790 - Patmanagement 2 funktioniert nicht mehr.",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72128",
+    "Summary": "corrupted file detectoids.xml.gz",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72122",
+    "Summary": "Regierungspr�sidium Darmstadt; PM2 funktioniert nicht mehr",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72120",
+    "Summary": "AW: #KBA00790 - Patmanagement 2 funktioniert nicht mehr.",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72106",
+    "Summary": "AW: #KBA00790 - Patmanagement 2 funktioniert nicht mehr.",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72101",
+    "Summary": "Patchmanagement V2 funktioniert nicht mehr korrekt",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72088",
+    "Summary": "Antwort: #KBA00790 - Patmanagement 2 funktioniert nicht mehr.",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72077",
+    "Summary": "Patchmanagement (v2) ohne Funktion auf den Clients",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72076",
+    "Summary": "Service Desk: PM V2 fehlerhaft",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72070",
+    "Summary": "Patchmanagement V2 kein Scan",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72057",
+    "Summary": "PatchManagement installiert keine patches",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72050",
+    "Summary": "Patch-Management (v2) installiert keine Patches",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72049",
+    "Summary": "PM2 Error",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72046",
+    "Summary": "Service Desk: V14.2 Clients und Server werden nicht mehr gepatched",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72043",
+    "Summary": "Service Desk: V15.0.0.528 DB 6.00 Patches werden nicht installiert",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72039",
+    "Summary": "Patchmanagement funtioniert nicht mehr (weder Scan noch Installation), Fehlermeldung: File not valid",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72031",
+    "Summary": "PMv2 Issue - Detectoids file is not valid!",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72025",
+    "Summary": "The special charakter \"Ampersand (&)\" cannot be read from the actual Microsoft Detectoids.xml.gz file",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72012",
+    "Summary": "Patchmanagement funktioniert nicht",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T72001",
+    "Summary": "Service Desk: Patches Install. nicht m�glich V14.11159",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T71981",
+    "Summary": "Vier Patche werden immer wieder installiert",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T70796",
+    "Summary": "Empirum PM v2",
+    "Problem": 5
+  },
+  {
+    "Ticket ID": "T70566",
+    "Summary": "Fehlermeldungen beim Herunterfahren (PM2 Client, ErrorCode: 255)",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T130747",
+    "Summary": "Empirum 15.1 Patchlevel 9: Alle Pakete mit Abh�ngigkeiten laufen auf rot",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T117386",
+    "Summary": "Paketstatus wechselt trotz erfolgreicher Installation nach Neustart auf gelb.",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T115702",
+    "Summary": "Software Paketstatus undefiniert obwohl erfolgreich installiert",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T114658",
+    "Summary": "Ausgerollte Pakete werden wieder mit dem Status gelb zur�ckgemeldet.",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T113986",
+    "Summary": "Installaiton Kaspersky",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T113241",
+    "Summary": "Fehlende Stati in der EMC",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T113145",
+    "Summary": "#TAP45422 - Empirum v16: Statusanzeige verliert Informationen / ist unvollst�ndig. Feedback erforderlich.",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T112120",
+    "Summary": "Stauts einer Applikation zeigt falsche Werte",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T110029",
+    "Summary": "Agent defekt / keine Isntallation / undef Zustand",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T109839",
+    "Summary": "Statusreport nicht korrekt, Verdacht auf nicht erzeugte SWDepotlog des Agent.",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T108943",
+    "Summary": "#DSPI002366 - Hess. Landtag | Empirum |  Fehler in der Statusanzeige zu den Inventorydaten. Feedback erfo...",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T108514",
+    "Summary": "Veraltete Inventory Daten",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T105740",
+    "Summary": "Status wird nicht aktualisiert.",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T105603",
+    "Summary": "Empirum - Software Installationsstatus stimmt nicht",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T104651",
+    "Summary": "Datenungleichheit \"Status eines Rechners\" und \"Logfile",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T102081",
+    "Summary": "nach Paketinstallation steht Status auf nicht erfolgreich",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T100280",
+    "Summary": "Office 2010 Statusanzeige",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T99885",
+    "Summary": "Empirum Agent 15.1 wird nicht korrekt inventarisiert",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T99437",
+    "Summary": "#TAP33303 - Empirum Inventory - Paket installiert - meldet undefiniert. Feedback erforderlich.",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T99303",
+    "Summary": "Inventory not reflecting software that is on machine",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T99266",
+    "Summary": "nach Update auf Patch 9 gibt es Probleme mit den Statusfarben",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T99052",
+    "Summary": "V15.1.9 PRB 26155",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T98257",
+    "Summary": "Agent und Inventory Fehler",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T98109",
+    "Summary": "Undefinierte Statusmeldung Softwareverteilung",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T97045",
+    "Summary": "Pakete mit success installiert, dennoch Status gelb",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T94289",
+    "Summary": "Probleme  mit SW-Status",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T93448",
+    "Summary": "Inventory erkennt Lync Paket nicht",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T93248",
+    "Summary": "Nicht korrekte Status und Log Ergebnisse nach Patch07",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T92962",
+    "Summary": "Log Ergebnis ==> Reboot Pending bleibt",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T92883",
+    "Summary": "Inventory",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T92034",
+    "Summary": "EMC - Unterschiedliche Log Ergebnisse f�r den selben Client - Log vs. Status-Log",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T89968",
+    "Summary": "Status erfolgreich installierter Pakete (Gr�n) werden verz�gert auf nicht installiert (Gelb) ge�ndert",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T89231",
+    "Summary": "#DSPI001168 - VERSORGUNGSWERK | EMPIRUM | Empirum Advanced Agent. Feedback erforderlich.",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T88676",
+    "Summary": "Statusanzeige f�r Paket nicht korrekt",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T88130",
+    "Summary": "Paketstatus nach Inventory von gr�n auf gelb",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T87584",
+    "Summary": "Paket-Status gelb, obwohl offensichtlich korrekt installiert",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T86924",
+    "Summary": "Emp.15.1 Patch 6: Eine Softwareinstallation wird als erfolgreich gemeldet - bei Erfassung mit Inventory allerdings nicht angezeigt. Statusfehler (!).",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T82394",
+    "Summary": "Pakete werden als \"nicht installiert\" markiert",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T81675",
+    "Summary": "Empirum Status und Log stimmen nicht �berein",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T81593",
+    "Summary": "Empirum V15.1: Probleme Softwareverteilung MAC OS",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T80848",
+    "Summary": "Stausanzeige",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T79004",
+    "Summary": "Falsche Anzeige in der Ansicht \"Status anzeigen",
+    "Problem": 6
+  },
+  {
+    "Ticket ID": "T86905",
+    "Summary": "ServiceStore: Lizenz Zertifikat f�r LIS ist nicht vorhanden oder ist abgelaufen.",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T78199",
+    "Summary": "Fehlermeldung beim LIS Update",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T74723",
+    "Summary": "Fehlermeldung: Keine Lizenz f�r das LIS-Update",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T74300",
+    "Summary": "License Intelligence Service - Error",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T74193",
+    "Summary": "Hotfix f�r PRB25361 ben�tigt",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T74188",
+    "Summary": "WPM 2013 LIS Problem: License certificate for LIS os not available or expired - Kunde Stadwerke Cottbus",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T73893",
+    "Summary": "LIS meldet abgelaufenes Zertifikat",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T73886",
+    "Summary": "LIS Zertifikat abgelaufen oder nicht vorhanden",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T73793",
+    "Summary": "Partnerkeys -LIS macht beim Partner URANO Probleme",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T73739",
+    "Summary": "LIS-Update Fehler - Zertifikat nicht vorhanden",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T73555",
+    "Summary": "LIS-Update nicht m�glich - Zertifikat ist ung�ltig",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T73424",
+    "Summary": "LIS funktioniert seit Aktualisierung auf 6.0.0.1115 nicht mehr",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T73342",
+    "Summary": "Meldung \"LIS Zertifikat nicht aktiviert\", obwohl lt. LIS Team aktiv",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T73273",
+    "Summary": "Mediengruppe Pressedruck - Hotfix f�r LIS ben�tigt",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T73244",
+    "Summary": "LIS abgelaufen",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T73151",
+    "Summary": "Lis zertifakt hotfix schon install. erscheint trotzdem eine meldung  das es nicht aktiviert ist",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T73138",
+    "Summary": "License Intelligence Service Lizenz",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T73022",
+    "Summary": "NetCologne Gesellschaft f�r Telekommunikation mbH",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T72923",
+    "Summary": "LIS-Zertifikat aktiv Dr. Paul Lohmann GmbH KG",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T72906",
+    "Summary": "Serverumzug - License Intelligence Service deaktiviert",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T72817",
+    "Summary": "LIS Update - certificate not activated",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T72766",
+    "Summary": "LIS Certificate is not activated",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T72328",
+    "Summary": "LIS Update schl�gt fehl Stor 6.0.0.1115",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T72278",
+    "Summary": "ServiceStore: LIS Zertifikat ist nicht vorhanden",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T72268",
+    "Summary": "LIS Update kann nicht gestartet werden",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T72047",
+    "Summary": "Fehlermeldung im LIS: keine g�ltige Lizenz oder abgelaufen",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T72036",
+    "Summary": "Anforderung Hotfix (LISUpdate)",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T71758",
+    "Summary": "LIS Lizenzzertifikat abgelaufen",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T71683",
+    "Summary": "LIS l�sst sich nicht ausf�hren",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T71681",
+    "Summary": "Servicestore Update Fehlermeldung (Lizenz Zertifkat ist nicht vorhanden oder abgelaufen)",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T71679",
+    "Summary": "LIS kann seit dem Update auf 6.0 nicht mehr ausgef�hrt werden",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T71653",
+    "Summary": "Integralis: Fehlermeldung nicht aktiviertes Zertifikat fuer LIS",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T71649",
+    "Summary": "LIS Update funktioniert nicht da Lizenzen angeblich nicht aktiviert oder ung�ltig sind.",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T71358",
+    "Summary": "LIS kann nicht gestartet werden: \"Lizenz ung�ltig oder abgelaufen",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T71339",
+    "Summary": "Rhenus - LIS Zertifikat f�r WPM2013",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T70847",
+    "Summary": "LIS Update schl�gt fehl",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T70639",
+    "Summary": "AW: WPM 2013 LIS Problem: License certificate for LIS os not available or expired",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T70552",
+    "Summary": "6.00.1115 Problem mit LIS-Service, meldet, dass Zertifikat abgelaufen oder nicht vorhanden sein",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T70546",
+    "Summary": "LIS l�sst sich nicht mehr starten \"Lizenzzertifikat\" ist nicht vorhanden oder abgelaufen.",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T70520",
+    "Summary": "Your LIS license certificate has not been activated. Please contact Matrix42 support ...",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T70400",
+    "Summary": "LIS Lizenzen 6.0.0.1115",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T70256",
+    "Summary": "IDSB - nach update von 5.33 auf 6.0.0.1115 - Fehlermeldung bei LIS",
+    "Problem": 7
+  },
+  {
+    "Ticket ID": "T137019",
+    "Summary": "Fehler beim Drucken im Workspace Management",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T136166",
+    "Summary": "Drucken von Aufgaben, St�rungen und Change Requests nicht m�glich",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T135704",
+    "Summary": "ServiceDesk: Meldung von Webseite beim Aufruf der Druckfunktion",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T135625",
+    "Summary": "Drucken aus Matrix Masken f�hrt zu Fehlermeldung",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T134078",
+    "Summary": "#CIT03667 - Drucken aus der Console funktioniert nicht. Feedback erforderlich.",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T130048",
+    "Summary": "Fehler beim Ausdrucken // An error occurs (Status Code: 500) while trying to print out an incident in Service Desk",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T128965",
+    "Summary": "Drucken f�hrt zu Fehlermedung",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T128152",
+    "Summary": "#CIT03002 - Drucken aus dem Ticket geht nicht - Verhalten wie in PRB27914 beschrieben festgestellt",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T127544",
+    "Summary": "Fehlermeldung beim drucken von Tickets",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T127158",
+    "Summary": "Nach Update auf 8.0.2 - Fehler beim Drucken von Dialogen",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T127129",
+    "Summary": "Drucken von Objekten geht nicht",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T125810",
+    "Summary": "#CIT02714 - Fehlermeldung beim Drucken.",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T125695",
+    "Summary": "[#20160331-0020] Fehlermeldung beim Drucken",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T124824",
+    "Summary": "#IFD01863 - Fehlermeldung beim Drucken aus Matrix42 ServiceDesk. Feedback erforderlich.",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T124755",
+    "Summary": "#DSPI003166 - Mohr GmbH | ServiceStore | Drucken eines Assets erzeugt Fehler. Feedback erforderlich.",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T124558",
+    "Summary": "Druckfunktion aus dem Ticket nach Update auf Version Workspace-Management-8.0.2.1580 fehlerhaft",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T124005",
+    "Summary": "Fehlermeldung beim Drucken aus dem Service Store",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T123331",
+    "Summary": "Incidents lassen sich nicht drucken",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T123260",
+    "Summary": "Fehler beim Drucken",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T122844",
+    "Summary": "Fehlermeldung beim Drucken von Assets",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T122569",
+    "Summary": "Fehlermeldungen beim Ausdruck aus Matrix42",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T122453",
+    "Summary": "#DSPI003092 - Dallmayr | ServiceStore - \"Status Code: 500\" beim Ausdrucken von Tickets. Feedback erforder...",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T122236",
+    "Summary": "#TAP47567 - Drucken von Incidents in der Version 8.0.1 nicht m�glich. Feedback erforderlich.",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T122105",
+    "Summary": "Fehlermeldung beim drucken",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T121555",
+    "Summary": "Fehlermeldungen beim �ffnen der Druckvorschau",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T119542",
+    "Summary": "#CIT01977 - Fehler beim Drucken von Incidents. Feedback erforderlich.",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T119504",
+    "Summary": "#CIT01966 - Mehrere Fehlermeldungen beim Drucken. Feedback erforderlich.",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T119345",
+    "Summary": "#TAP46979 Anfrage zu PRB27914 An error occurs (Status Code: 500) while trying to print out an incident in Service Desk",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T118974",
+    "Summary": "Status Code: 500 beim Druck aus einem Ticket",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T118636",
+    "Summary": "Drucken erst nach Wegklicken mehrerer Fehlermeldungen m�glich",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T117770",
+    "Summary": "[#20151103-0180] WSM v8.0.0.1478: Problem beim Drucken von Incidents",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T116054",
+    "Summary": "#IFD01318 - ServiceDesk - Fehler beim Drucken.",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T115982",
+    "Summary": "#DSPI002767 - Messer | SERVICESTORE | Drucken zeigt Fehlermeldung - CvO . Feedback erforderlich.",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T115886",
+    "Summary": "#TAP46320 - Druck aus Asset bringt Fehlermeldungen. Feedback erforderlich.",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T115139",
+    "Summary": "Druck Funktion in WSM 2015 v.8.0.1.1496 (2015 Patch 1) funktioniert nicht",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T114943",
+    "Summary": "Drucker Fehlermeldung",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T114748",
+    "Summary": "Fehlermeldungen beim Drucken von Incidents",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T114459",
+    "Summary": "Fehler beim Drucken von Konfigurationselementen",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T114359",
+    "Summary": "Fehlermeldung beim Drucken",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T113676",
+    "Summary": "#TAP45867 - Fehler beim Aufruf der Druckfunktion aus einem Ticket heraus. Feedback erforderlich.",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T112172",
+    "Summary": "#TAP45310 - Ticket drucken im service Store: Fehlermeldung. Feedback erforderlich.",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T110561",
+    "Summary": "Fehlermeldung beim Drucken - Aktuelle Version: 7.2.2.1382",
+    "Problem": 8
+  },
+  {
+    "Ticket ID": "T140882",
+    "Summary": "History view is not working. We have tried Compatibility view as well.",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T139214",
+    "Summary": "Arvato / ATOS - Fehler History",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T135347",
+    "Summary": "Dialog Historie wird nicht korrekt / unvollst�ndig angezeigt",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T132606",
+    "Summary": "History Dialog keine Funktion",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T131189",
+    "Summary": "Historie der Assets l�sst sich nicht �ffnen",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T130770",
+    "Summary": "Historien-Anzeige",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T129754",
+    "Summary": "Kompatibilit�tsmodus Aktiv --> Historie funktioniert nicht",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T128803",
+    "Summary": "[#20160616-0102] Matrix42 - History Dialog funktioniert nicht",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T128536",
+    "Summary": "Historie l�sst sich nicht �ffnen",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T127265",
+    "Summary": "#CIT02906 - History wird nicht richtig angezeigt.",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T127153",
+    "Summary": "#CIT02887 - Matrix42 - Dialog f�r Historie l�sst sich nicht �ffnen. Feedback erforderlich.",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T126553",
+    "Summary": "#DSPI003252 - Fraunhofer UMSICHT | ServiceStore | Fehler in der neuen History-Ansicht. Feedback erforderl...",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T126375",
+    "Summary": "#IFD01937 - History Funktion hat im IE auf NB M.Degwert nicht korrekt funktioniert",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T126298",
+    "Summary": "Service Store History Dialog ist nicht aufrufbar",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T126277",
+    "Summary": "Datensatzhistorie wird nicht angezeigt",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T125919",
+    "Summary": "#CIT02734 - History Dialog wird nicht richtig dargestellt. Feedback erforderlich.",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T125657",
+    "Summary": "Historienfunktion bei \"Assets\" und \"St�rungen",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T125565",
+    "Summary": "#CIT02683 - Histroy wird nicht richtig angezeigt.. Feedback erforderlich.",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T125455",
+    "Summary": "#INC35843 / WG: History Dialog im Workspace Management funktioniert nicht mehr",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T125324",
+    "Summary": "Service Store Version 8.0.2.1580 - Historische Daten nicht mehr angezeigt",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T124994",
+    "Summary": "Importdefinitionen - Zuordnungen sind weg",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T124924",
+    "Summary": "#CIT02602 - History wird nicht richtig dargestellt.. Feedback erforderlich.",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T124819",
+    "Summary": "Stadt Bern: Nach Update WSP auf Version 8.0.2.1580 keine Historie-Eintr�ge mehr",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T124242",
+    "Summary": "Fehler bei der Bearbeitung eines Softwareprodukts",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T124039",
+    "Summary": "#CIT02492 - Asset-Historie nach Migration nicht mehr anzeigbar. Feedback erforderlich.",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T123241",
+    "Summary": "[#20160217-0050] History Dialog nicht mehr funktionst�chtig",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T123001",
+    "Summary": "WG: Historie Funktion",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T122671",
+    "Summary": "Historie bei Assets",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T121489",
+    "Summary": "Historie-Button funktioniert seit Update einer 7er Version auf 8.0.2.1580 nicht mehr",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T121339",
+    "Summary": "ServiceStore: History-Dialog funktioniert nicht mehr",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T121064",
+    "Summary": "Historie funktioniert nicht",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T120977",
+    "Summary": "WM2015 - History Dialog wird nicht korrekt angezeigt",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T120383",
+    "Summary": "Problem mit dem History-Dialog",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T120339",
+    "Summary": "#CIT02084 - History wird nicht richtig dargestellt.. Feedback erforderlich.",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T120338",
+    "Summary": "#CIT01985 - Problem mit dem neuen History Dialog in V8. Feedback erforderlich.",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T119145",
+    "Summary": "Historie funktioniert nicht mehr",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T119000",
+    "Summary": "WSM 8.0.2.1580: Problem im der Archivsuche",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T118646",
+    "Summary": "#CIT01873 - History wird nicht richtig angezeigt werden.. Feedback erforderlich.",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T118500",
+    "Summary": "Historyfunktion in 8.0.2 funktioniert im Kompatibilt�tsmodus nicht",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T117190",
+    "Summary": "v8.0.2 History dialog is not working",
+    "Problem": 9
+  },
+  {
+    "Ticket ID": "T53042",
+    "Summary": "SST versendet keine Mail beim schlie�en eines Tickets",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T51724",
+    "Summary": "Keine Info-Mail an den Anwender wenn Ticket geschlossen",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T51438",
+    "Summary": "Email senden bei Task �ffnen oder schlie�en erzeugt keine Email",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T50482",
+    "Summary": "Konformit�tsregeln bzgl. St�rungen funktionieren nicht",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T50280",
+    "Summary": "Beim Schlie�en der Tickets werden keine Emails versendet",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T49484",
+    "Summary": "Anwender bekommt keine E-Mail beim schlie�en eines Tickets",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T49464",
+    "Summary": "Mail beim Schlie�en eines Tickets wird nicht gesendet",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T49446",
+    "Summary": "CoRu \"Inform Users when an Incident was closed\" funktioniert nicht",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T49372",
+    "Summary": "Inform Responsible Role when a Ticket was forwarded\" does not work",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T49301",
+    "Summary": "Kein Mailversand bei Schlie�ung eines Incidents",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T49159",
+    "Summary": "Incident Close Mails werden nicht versendet",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T49149",
+    "Summary": "CoRu �Inform Users when an Incident was closed� l�st nicht immer Mailversand aus",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T49104",
+    "Summary": "CR f�r das Schlie�en von Tickets funktioniert nicht mehr",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T48928",
+    "Summary": "Konformit�tsregel informiert Benutzer (Initiator) nicht �ber das Schlie�en seiner St�rung",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T48854",
+    "Summary": "E-Mails beim Schlie�en eines Tickets werden nicht verschickt",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T48826",
+    "Summary": "Close Incident versendet keine E-Mails mehr",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T48781",
+    "Summary": "Mitarbeiter bekommen bei geschlossenen Tickets keine E-Mail Benachrichtigung mehr",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T48776",
+    "Summary": "Konformit�tsregel funktioniert nicht",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T48574",
+    "Summary": "Ticket Closing Emails werden nicht immer versendet",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T48453",
+    "Summary": "e-Mail Versandt beim schliessen eines Tickets",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T48245",
+    "Summary": "R�ckmeldung von Arbeitsauftr�gen funktioniert nur sporadisch",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T48235",
+    "Summary": "Verschiedene Arten von Ticketbest�tigungen (Mail) werden von Matrix nicht erzeugt",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T47972",
+    "Summary": "Mail bei Ticketschlie�ung wird nur sporadisch versendet",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T47828",
+    "Summary": "Es werden bei Ticketschlie�ung keine Emails versendet",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T47743",
+    "Summary": "Service Desk: Keine Empfangsbest�tigung",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T47702",
+    "Summary": "Konformit�tsregel, \"Inform User when a Incident was paused\",  greift nicht",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T47651",
+    "Summary": "R�ckmeldung bei geschlossenen Tickets",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T47645",
+    "Summary": "Service Store �nderung keine E-Mail Benachrichtigung",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T47613",
+    "Summary": "Eine Konformit�tsregel funktioniert nicht",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T47537",
+    "Summary": "Problem bei Konformit�tsregel",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T47430",
+    "Summary": "Compliance Rules funktionieren teilweise nicht",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T47425",
+    "Summary": "E-Mail Benachrichtigung erfolgt nicht",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T47387",
+    "Summary": "xlt eintrag fehlt in der Benachrichtigungmail, beim schlie�en eines Tickets",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T47361",
+    "Summary": "Beim Anlegen eines Tickets wird eine Mail versendet aber nicht beim schlie�en.",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T46818",
+    "Summary": "E-Mail wird nicht bei allen Status�nderungen versendet",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T46799",
+    "Summary": "Beim Schlie�en einer Storr�ng werden keine Emails versendet",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T46710",
+    "Summary": "E-Mails werden durch CoRus nicht verschickt - Fehler beim Konvertieren des nvarchar-Werts 'R1' in den int-Datentyp",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T46667",
+    "Summary": "Failed to post compliance rules nach Update auf SP2",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T46160",
+    "Summary": "Nach Update funktioniert Konformit�tsregel \"Inform Users when an Incident was closed\" nicht mehr",
+    "Problem": 10
+  },
+  {
+    "Ticket ID": "T115641",
+    "Summary": "Workplace Management Console zus�tzliche Informationen",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T112565",
+    "Summary": "[#20150717-0042] Empirum Mmgnt Konsole - zus�tzliches Eigenschaftenfeld",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T110974",
+    "Summary": "V15.1 Patch 9: nach Update auf neueste Version werden Werte in Customfeldern der EMC nicht mehr gespeichert",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T108872",
+    "Summary": "Empirum Inventory",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T107973",
+    "Summary": "Zusatzfelder nicht zu beschreiben",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T104540",
+    "Summary": "Zusatzinfo f�r PC Eigenschaften nicht erg�nzen",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T104336",
+    "Summary": "Werte in den jeweiligen Client Eigenschaften k�nnen nicht gespeichert werden.",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T103708",
+    "Summary": "Computereigenschaften: Werte in \"Zusa�tzliche Informationen\" lassen sich nicht �ndern",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T102867",
+    "Summary": "Management Konsole, Variablen lassen sich nicht �ndern",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T99314",
+    "Summary": "#TAP33328 - Customfields lassen sich nicht abspeichern. Feedback erforderlich.",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T99241",
+    "Summary": "Zus�tzliche Informationen im Computerobjekt werden nicht gespeichert",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T99164",
+    "Summary": "Probleme mit EMC nach Installation Patch 09",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T99040",
+    "Summary": "Kein Eintrag von zus�tzlichen Info�s m�glich",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T98881",
+    "Summary": "Inventory Zus�tzliche Information",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T98879",
+    "Summary": "Problem mit dem Bearbeiten der zus�tzlichen Informationen bei den Eigenschaften von Computern",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T98827",
+    "Summary": "#DSPI001841 - CONTINENTALE | EMPIRUM | EMC Inventory Custom Felder lassen sich nicht speichern.. Feedback...",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T98731",
+    "Summary": "EMC: Computereigenschaften \"Zus�tzliche Informationen\" k�nnen nicht mehr gespeichert werden",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T98629",
+    "Summary": "#DSPI001824 - EMC Custom Felder nicht mehr beschreibbar seit SP1 FeaturePack. Feedback erforderlich.",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T98437",
+    "Summary": "#DSPI001801 - RKH-Kassel | EMPIRUM | Zus�tzliche Information werden nicht �bernommen. Feedback erforderli...",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T98028",
+    "Summary": "Custom Field 1 kann nicht mehr ge�ndert werden, nach dem einmaligem Setzen vom Wert",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T97995",
+    "Summary": "Problem nach update auf Empirum Patch 09 (15.1.1.1285)",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T97673",
+    "Summary": "Nach Empirum 15.1 Patch8 keine Bearbeitung von zus�tzlichen Informationen",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T96940",
+    "Summary": "�nderungen an Custom Field �ber EMC werden nicht �bernommen",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T96927",
+    "Summary": "Problem nach Update auf Patch08",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T96711",
+    "Summary": "[#20141024-0068] Invenory schreibt keine benutzerdefinierten Felder",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T96692",
+    "Summary": "Zus�tzliche Informationen in freien Feldern werden nicht gespeichert.",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T96640",
+    "Summary": "zus�tzliche informationen nach update nicht definierbar",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T96487",
+    "Summary": "Nach Empirum Patch 08 keine eintragungen mehr m�glich",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T96421",
+    "Summary": "Owner ID in den Eingenschaften eines Rechners lassen sich nicht speichern",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T96129",
+    "Summary": "Wert�nderungen bei Custom-Feldern werden nicht gespeichert",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T95888",
+    "Summary": "�nderung der Custom Fields",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T95621",
+    "Summary": "Empirum Inventory - Zusatzinformationen werden nicht gespeichert",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T95535",
+    "Summary": "Zus�tzliche Informationen (Custom Felder) lassen sich nicht mehr �ndern",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T95507",
+    "Summary": "V15.1.8  EMC, selbstangelegtes zus�tzliches Feld kann nicht mehr bef�llt werden / Werte k�nnen nicht mehr gespeichert werden",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T95435",
+    "Summary": "Matrix42 Workplace Management | nach Patch 08 werden keine Zus�tzlichen Informationen eines Computers gespeichert",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T95140",
+    "Summary": "CUSTOM-Variablen nach SP nicht mehr �nderbar",
+    "Problem": 11
+  },
+  {
+    "Ticket ID": "T86294",
+    "Summary": "Deinstallierte Software erzeugt noch Lizenzbedarf",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T79961",
+    "Summary": "SCCM Konnektor",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T78405",
+    "Summary": "Asset-Daten im Service Store und Inventarisierungsdaten von Empirum stimmen nicht �berein ...",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T78253",
+    "Summary": "Empirum Konnektor aktualisiert Computer nicht",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T74084",
+    "Summary": "Deinstallierte Software wird im Service Store nicht entfernt",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T70684",
+    "Summary": "Inv. Anwendungen Software wird nicht entfernt",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T70647",
+    "Summary": "Empirum Import scheint nicht richtig zu funktionieren.",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T70251",
+    "Summary": "Deinstallationen wirken sich nicht auf Inv. Applikationen aus",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T69902",
+    "Summary": "Neuester Empirum Konnektor Hotfix f�r 5.33.946",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T69604",
+    "Summary": "Unterschiedliche Zahlen??",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T69290",
+    "Summary": "Lizenzmanagement, Installationen",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T69271",
+    "Summary": "Aktualisierung Fingerprints / Installationstatus von Softwareprodukten",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T69113",
+    "Summary": "Deinstallationen werden im Matrix Service Store nicht nachgezogen",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T68894",
+    "Summary": "ServiceStore",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T68567",
+    "Summary": "SCCM Konnektor - Installierte Software stimmt nicht mit dem Service Store �berein",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T68484",
+    "Summary": "Inventory nach Windows7 Update nicht aktuell",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T67994",
+    "Summary": "Fehlerhafte Lizenzbedarfe",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T67907",
+    "Summary": "Deinstallationen werden nicht erfasst",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T67739",
+    "Summary": "GDI import: Import h�ngt bei \"L�sche Staging tabellen",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T67385",
+    "Summary": "Unterschiedliche Softwareliste in Empirum und ServiceStore",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T67299",
+    "Summary": "Unterschiede zwischen EmpirumInventory und ServiceStore",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T67281",
+    "Summary": "Deinstallierte Anwendungen verschwinden",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T66896",
+    "Summary": "Problem mit mehrfachen Datens�tzen..",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T66583",
+    "Summary": "License information",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T66580",
+    "Summary": "neu Ticket - Fehler - Zwei Betriebssystem Lizenzen",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T66154",
+    "Summary": "Inventarisierung werden nicht im Service Store gel�scht, wenn Sie in Empirum nicht mehr vorhanden sind.",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T66044",
+    "Summary": "Hardware ausgetauscht, Seriennummer wurde von System als Matchingkriterium ignoriert, daf�r bei Ger�t die Seriennummer ge�ndert",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T66013",
+    "Summary": "Lizenzbedarf wird nicht aktualisiert trotz Verwaltungsart Empirum",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T65844",
+    "Summary": "Software wird von Empirum deinstalliert und mit der aktuellen Version ersetzt Office2001/2010",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T65644",
+    "Summary": "Obsolete Lizenzbedarfe bleiben erhalten",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T65199",
+    "Summary": "Deinstallierte Software wird im ServiceStore nicht entfernt",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T65058",
+    "Summary": "Synchronisation Lizenzen - Empirum Konnektor",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T63684",
+    "Summary": "Fehler bei den Inventardaten.",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T60156",
+    "Summary": "Lizenzbilanz - Korrekturen n�tig nach gewissem zeitraum?",
+    "Problem": 12
+  },
+  {
+    "Ticket ID": "T60096",
+    "Summary": "License Inventory verliert Zuordnung",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T132449",
+    "Summary": "Aktivierung und Zeitplan: \"letzter Durchlauf\" wird nicht aktualisiert",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T132399",
+    "Summary": "Aktivierung & Zeitplan - letzter Durchlauf und Z�hler aktualisieren sich nicht",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T131293",
+    "Summary": "SQL Error in Log",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T131104",
+    "Summary": "Aktivierungen & Zeitplan: Letzter Durchlauf wird nicht mehr aktualisiert",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T129730",
+    "Summary": "RHENUS: Probleme mit Datumsanzeigen in Version 8",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T129209",
+    "Summary": "#TAP49118 - Error im HostCommon.log. Feedback erforderlich.",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T126880",
+    "Summary": "Letzter Durchlauf\" aktualisiert sich nach Umstellung auf Version 8.0.2.1580 nicht mehr.",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T126287",
+    "Summary": "Datum \"letzter Durchlauf\" bei Aktivierung/Zeitplan falsch",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T125787",
+    "Summary": "Zeitanzeige bei Aktivierung nach Update auf 8.0.2",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T125700",
+    "Summary": "Probleme",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T125359",
+    "Summary": "WM2015 - Fehler in HostScheduler und letzter Durchlauf wird nicht aktualisiert",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T125279",
+    "Summary": "#DSPI003203 - C & P Construction | ServiceStore | Scheduler Probleme. Feedback erforderlich.",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T124799",
+    "Summary": "Service Schedules - Last Run",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T124402",
+    "Summary": "Anzeige \"Letzter Durchlauf\" in den Aktivierungen fehlerhaft",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T124000",
+    "Summary": "Hat Aktivierung & Zeitplan die Spalte �Letzter Durchlauf� einen Bug?",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T123600",
+    "Summary": "#TAP47871 - Scheduler werden nicht ausgef�hrt. Feedback erforderlich.",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T123446",
+    "Summary": "Aktivierungen und Zeitpl�ne scheinen nicht zu laufen",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T122297",
+    "Summary": "Aktivierung und Zeitplanung startet keine regelm��igen Aktivierungen mehr",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T121830",
+    "Summary": "#DSPI003065 - Ardex | ServiceStore | Dienstaktivierungen per Scheduler erzeugen Fehlermeldungen im Log. F...",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T121747",
+    "Summary": "Administration\\Dienste&Prozesse\\Aktivierung und Zeitplan\\Engines - Fehler",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T121624",
+    "Summary": "InvalidOperationException: ExecuteNonQuery erfordert...",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T121336",
+    "Summary": "Host Scheduler log shows 'System.InvalidOperationException' error",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T120976",
+    "Summary": "ServiceStore: seit Update, �Aktivierung & Zeitplan�/�letzten Durchlauf\" wird nicht aktualisiert",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T120794",
+    "Summary": "Aktivierungen werden nicht richtig angezeigt (Zeitplan) Update auf 8.0.2",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T120567",
+    "Summary": "kein Jobdurchlauf seit �ber 2 Monaten",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T120343",
+    "Summary": "WSM: Aktivierung & Zeitplan --> letzter Durchlauf wird nicht aktualisiert",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T120162",
+    "Summary": "Aktivierung & Zeitplan ohne Aktualisierung der Ansicht",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T119783",
+    "Summary": "[#20151209-0088] Aktivierungen und Zeitplan funktionieren nicht mehr ( VOR ORT)",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T118719",
+    "Summary": "#CIT01880 - Letzter Durchlauf bei den Zeitpl�nen wird nicht mehr aktualisiert. Feedback erforderlich.",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T118609",
+    "Summary": "Kunde Vodafone hat PRB28168, kommt Hotfix?",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T118498",
+    "Summary": "WM2015 - Fehlermeldung im HostScheduler.Log - System.InvalidOperationException: ExecuteNo .....",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T118384",
+    "Summary": "WSM 8.0.2 - Aktivierung & Zeitplan nicht aktualisiert - vgl. PRB28168",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T117758",
+    "Summary": "#TAP46650 - HostScheduler Log wirft Unmengen Exceptions nach update auf Version 8.0.2.1580 . Feedback erf...",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T117597",
+    "Summary": "Vor Ort - Service Store Aktivierungen schlagen fehl: ExecuteNonQuery erfordert, dass der Befehl �ber eine Transaktion verf�gt",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T116986",
+    "Summary": "Last Run Date and Counter in Engine Activations won't be updated",
+    "Problem": 13
+  },
+  {
+    "Ticket ID": "T70364",
+    "Summary": "LIS-Update aktualisiert Daten nicht.",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T65867",
+    "Summary": "Problem beim Lis Import",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T63952",
+    "Summary": "LIS import bricht mit Fehler \"SqlException: Zeichenfolgen- oder Bin�rdaten w�rden abgeschnitten.\" ab",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T63505",
+    "Summary": "LIS Update failed Service Store 5.3 SP3 5.33.924",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T62194",
+    "Summary": "LISUpate bringt GDIEException",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T61528",
+    "Summary": "ErrorGDIEException bei LIS Update",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T61292",
+    "Summary": "Probleme mit LIS-Update",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T60938",
+    "Summary": "LIS Update Hotfix",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T60744",
+    "Summary": "License Intelligence Service ErrorGDIEExeption",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T60297",
+    "Summary": "Fehler LIS-Update ErrorGDIEPartialSuccessFinished",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T60240",
+    "Summary": "Fehler beim LIS-Update ErrorGDIEException",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T60192",
+    "Summary": "Fehler bei LIS Aktualisierung",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T60008",
+    "Summary": "ServiceStore: LIS Update Error",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T59686",
+    "Summary": "Fehler LIS Update",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T59033",
+    "Summary": "LIS Update - ErrorGDIEException",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T58938",
+    "Summary": "LIS Update seit dem Update auf die 5.33.0934 nicht m�glich",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T58931",
+    "Summary": "Fehler bei LIS-Update -> PRB24464",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T58912",
+    "Summary": "Matrix42 Service Store Fehler LIS Update",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T58634",
+    "Summary": "LIS-Update erzeugt eine System.OutOufMemoryException",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T58612",
+    "Summary": "LIS-Update",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T58575",
+    "Summary": "LIS Update - ErrorGDIEException",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T58480",
+    "Summary": "Update License Intelligent Service f�r Matrix42 Service Store",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T58330",
+    "Summary": "Fehler bei der Ausf�hrung von LIS-Update",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T58208",
+    "Summary": "Neue SKU Nummer",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T58066",
+    "Summary": "LIS Update schl�gt fehl",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T57993",
+    "Summary": "LIS Service Update sch�gt fehl",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T57926",
+    "Summary": "Service Store LIS Update funktioniert nicht mehr",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T57692",
+    "Summary": "#TSK06384 - LIS Update GDIEException Error",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T57564",
+    "Summary": "LIS update Problem",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T57489",
+    "Summary": "Fehler beim einspielen des LIS Updates",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T57464",
+    "Summary": "ErrorGDIException beim LIS-Update",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T57284",
+    "Summary": "LIS Update Fehler - Zeichenfolgen- oder Bin�rdaten w�rden abgeschnitten (5.31.0862)",
+    "Problem": 14
+  },
+  {
+    "Ticket ID": "T69955",
+    "Summary": "Empirum Konnektor wirft Fehlermeldung",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T68650",
+    "Summary": "Beim Import von Empirumdaten gibt es eine Fehlermeldung: DTS Step_DTS execute SQL task_47 failed",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T65805",
+    "Summary": "Empirum Connector fails in 'DTSStep_DTSExecuteSQLTask_47'",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T64675",
+    "Summary": "Empirum Import",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T64638",
+    "Summary": "Neuer Incident: Service Store: Fehler bei Empirum Import",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T64128",
+    "Summary": "Service Desk - Empirum Konnektor liefert keine Inventardaten mehr",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T63646",
+    "Summary": "Empirum Connector DTSStep 47 failed",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T63236",
+    "Summary": "Empirum Konnektor funktoniert seit dem Update des Service Store auf die aktuelle Version nicht mehr",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T63150",
+    "Summary": "Empirum Connector fails in 'DTSStep_DTSExecuteSQLTask_47': Cannot insert the value NULL into column 'ID', table 'tempdb.dbo.#acb1...",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T63106",
+    "Summary": "Empirum Connector im ServiceStore funktioniert nicht",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T63088",
+    "Summary": "ServiceStore: Empirum Konnektor schl�gt fehl",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T63033",
+    "Summary": "Empirum Konnektor Error - Otto Dunkel",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T63031",
+    "Summary": "Empirum Konnektor faild - DTS Step 47",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T63002",
+    "Summary": "Empirum Connector fails in 'DTSStep_DTSExecuteSQLTask_47': Cannot insert the value NULL into column 'ID', table 'tempdb.dbo.#acb1...",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T62924",
+    "Summary": "Empirum Konnektor ServiceStore",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T62862",
+    "Summary": "Empirum Konnektor funktioniert nicht mehr nach Patch 3",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T62843",
+    "Summary": "Nach Update auf 5.33.946 -> Empirum Import Step  47 Failed",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T62759",
+    "Summary": "Empirumkonnektor scheitert mit Fehler (DTS 47)",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T62740",
+    "Summary": "Problem mit Empirum Konnektor nach Update auf die Version 5.33.946",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T62707",
+    "Summary": "Empirum Import schl�gt fehl 'DTSStep_DTSExecuteSQLTask_47' failed",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T62641",
+    "Summary": "Step 'DTSStep_DTSExecuteSQLTask_47' failed",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T62578",
+    "Summary": "Empirum-Connector Fehler nach Update auf Version 5.33.946",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T62554",
+    "Summary": "5.33.0946 + Emp V15: Step 'DTSStep_DTSExecuteSQLTask_47' failed.",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T62495",
+    "Summary": "Service Store 5.3Sp3P3 Empirum Connector fehlerhaft",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T62452",
+    "Summary": "Empirum Konnektor failed - 'DTSStep_DTSExecuteSQLTask_47'",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T62313",
+    "Summary": "Empirum Konnektor bricht Import ab mit Meldung \"Import mit Meldung fehlgeschlagen: Fehler bei Paket aufgrund von Fehler bei Schritt 'DTSStep_DTSExecuteSQLTask_47'.",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T61968",
+    "Summary": "M42Archive Datenbank reagiert nicht mehr",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T61633",
+    "Summary": "Fehlermeldungen beim Empirum-Import",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T61197",
+    "Summary": "ServiceStore Installation (Testumgebung THAHN) Import Empirum Connector �ber API endet im Fehler",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T59349",
+    "Summary": "Step 'DTSStep_DTSExecuteSQLTask_47' failed.",
+    "Problem": 15
+  },
+  {
+    "Ticket ID": "T114229",
+    "Summary": "#CIT01462 - Service Provisione Create Change Workflow funktioniert von heute auf morgen nicht mehr",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T113938",
+    "Summary": "#CIT01448 - Matrix42  Fehler im Event. Feedback erforderlich.",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T113138",
+    "Summary": "#TAP45714 - Fehler im Windows Application-Log. Feedback erforderlich.",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T109693",
+    "Summary": "WebHost failed to process a request\" (Fehlermeldung im Windows Eventlog des Servers)",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T108893",
+    "Summary": "Randstad - Fehler im WF \"Provisioning - Create Change",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T105346",
+    "Summary": "Workflowdesigner kann nicht mehr ge�ffnet werden, Problem mit Diensten",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T104166",
+    "Summary": "WG: Stadt Langenhagen: Ereignis Log Fehler Matrix42 Server",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T103242",
+    "Summary": "Hotfix PRB27104",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T102556",
+    "Summary": "Workflows starten nicht nach Servermigration",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T101249",
+    "Summary": "#TAP33703 - Fehler WF-Designer. Feedback erforderlich.",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T101136",
+    "Summary": "Workspace Management Log Fehler",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T99534",
+    "Summary": "#TAP33221 - Fehler im Windows Appliction Log. Feedback erforderlich.",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T99496",
+    "Summary": "#CIT00513 - Feherl nach Update im Portal / Arbeitsplatz und Katalog",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T99292",
+    "Summary": "div. Meldungen/Auff�lligkeiten nach Update von WPM 6.0.3 auf WM 7.1.1 (Helpfiles, Workflow, ...)",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T99002",
+    "Summary": "7.2.0.1341  Hotfixes f�r SP2",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T98915",
+    "Summary": "Declined Order",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T98720",
+    "Summary": "Fehler in \"Provisioning - Create WF Change\" Workflow",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T98556",
+    "Summary": "Fehler beim Einchecken eines Workflows",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T98498",
+    "Summary": "Workflow unbekannter Member Meldung alle 5 Minuten im Log",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T98390",
+    "Summary": "ServiceStore bringt Fehlermeldungen",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T98360",
+    "Summary": "Fw: Preh Webshop: Workflows Probleme - Deadlocks",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T98274",
+    "Summary": "[MSH] Workflow l�sst sich nicht einchecken",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T98200",
+    "Summary": "Workflows nicht nutzbar",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T98033",
+    "Summary": "Workflow Engine nach Einchecken korrupt",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T97949",
+    "Summary": "Workflow-Engine startet nach Update auf 7.1.1 nicht mehr",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T97934",
+    "Summary": "Workflow l�sst sich nicht mehr einchecken",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T97669",
+    "Summary": "#DSPI001767  7.1.1.1293 Standart Workflow provisioning-create- WFchange funktioniert nicht",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T97607",
+    "Summary": "Change wird nicht geschlossen",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T97433",
+    "Summary": "Problem mit Service Portal Der unbekannte Member Matrix42.Workflows.Activities.Common.Data.ObjectExpressionParameter.ObjectReference kann nicht festgelegt werden",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T97104",
+    "Summary": "Fehler nach Update auf Version 7.1.1.1293: Provisioning Create Change workflow aktiviert sich nicht mehr",
+    "Problem": 16
+  },
+  {
+    "Ticket ID": "T120436",
+    "Summary": "LDAP Konnektor Importier Benutzer Kennung nicht.",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T120270",
+    "Summary": "#CIT01955 - Anlage Benutzer im ActiveDirectory. Feedback erforderlich.",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T120243",
+    "Summary": "Fehler beim AD Import in den ServiceStore",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T118766",
+    "Summary": "LDAP DataProvider l�uft auf einen Fehler",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T116880",
+    "Summary": "Import einer Dom�ne schl�gt immer fehl",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T115962",
+    "Summary": "ServiceStore: \"Person\" wird aus den Stammdaten gel�scht",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T115672",
+    "Summary": "AD-Konnektor funktioniert nicht mehr",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T114590",
+    "Summary": "LDAP Import schl�gt fehl",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T113420",
+    "Summary": "LDAP Connector schl�gt fehl",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T113096",
+    "Summary": "Ldap Connector funktioniert nicht mehr",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T112875",
+    "Summary": "#IFD01016 Dringend!! LDAP AD Import / Sychronisation type 'Person' - ambiguous match  error code: (1)",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T112623",
+    "Summary": "WM2014 - LDAP Fehler wegen GDIE PartialSuccess (ImportAccounts)",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T112501",
+    "Summary": "LDAP Import Fehlermeldung",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T111876",
+    "Summary": "LDAP nicht abgeschlossen",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T111063",
+    "Summary": "WP2014 SP2.2 - #INC36940 - LDAP Import Problem wenn ein Benutzer mehrere Benutzerkonten hat",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T111054",
+    "Summary": "Servicestore LDAP Import Fehler",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T110612",
+    "Summary": "LDAP Konnektor f. Active Directory importiert keine �nderungen mehr, importiert nicht alles",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T109780",
+    "Summary": "GFO - Datenmenge rasant wachsend",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T109769",
+    "Summary": "LDAP Konnektor Import funktioniert nicht",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T109729",
+    "Summary": "Fwd: LDAP Sync Stadt Wuppertal",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T109668",
+    "Summary": "Kunde: ACO | Fehler im LDAP Dataprovider nach Update auf V7.2.2.1382",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T109583",
+    "Summary": "LDAP Konnektor l�uft in Partial Success wenn 2 Accounts an einer Person h�ngen",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T109571",
+    "Summary": "#TAP44973 LDAP Konnektor schl�gt fehl, wenn eine Person mehrere Accounts zugewiesen hat",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T109551",
+    "Summary": "WM2014 - LDAP failed - GDIE Sequence finished with status PartialSuccess",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T109459",
+    "Summary": "LDAP - Fehler, wenn einer Person mehrere Accounts zugeordnet sind",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T109386",
+    "Summary": "LDAP-Konnektor schl�gt fehl wenn eine Person mehrere Accounts hat",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T109204",
+    "Summary": "LDAP Import scheint nicht mehr zu funktionieren",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T109130",
+    "Summary": "LDAP-Konnektor schl�gt fehl wenn eine Person mehrere Accounts hat",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T108973",
+    "Summary": "Gel�schte Computer werden nicht in die OU Deleted Items verschoben",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T105467",
+    "Summary": "WG: weitere Fehler im AD-Konnektor Fwd: #INC74090 - Ein Support Ticket wurde Ihrer Rolle zugewiesen",
+    "Problem": 17
+  },
+  {
+    "Ticket ID": "T134091",
+    "Summary": "#CIT03669 - ITSM Strukturfilter werden nicht gespeichert. Feedback erforderlich.",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T133376",
+    "Summary": "#TAP50260 - LRA NU - Fehler bei den Strukturfiltern. Feedback erforderlich.",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T133220",
+    "Summary": "Strukturen lassen sich nicht anpassen",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T131443",
+    "Summary": "#CIT03409 - Strukturen lassen sich nicht speichern. Feedback erforderlich.",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T131176",
+    "Summary": "Hotfix zu PRB28264",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T130572",
+    "Summary": "#CIT03302 - Matrix42 SPS: Statische Strukturen unter Benutzeroberfl�chen. Feedback erforderlich.",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T130444",
+    "Summary": "#CIT03284 - Filter in Statischen Strukturen der St�rungen wird nicht �bernommen. Feedback erforderlich.",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T127974",
+    "Summary": "Ordnernamen in Statischer Struktur nicht zu ver�ndern",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T127505",
+    "Summary": "#TAP48735 - Struktur f�r St�rungen kann nicht angepasst werden.. Feedback erforderlich.",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T127172",
+    "Summary": "Strukturfilter k�nnen nicht mehr angepasst/editiert werden",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T127074",
+    "Summary": "#DSPI003288 - Probleme mit statischen Grid-Layouts. Feedback erforderlich.",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T126565",
+    "Summary": "#DSPI003247 - e-Shelter | ServiceStore | �nderung der A-SQL-Abfragebedingung in einer Struktur wird nicht...",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T126419",
+    "Summary": "�nderungen im ASQL Filter einer Datenstruktur f�hrt zum Entfernen der Expression",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T126066",
+    "Summary": "Standardstruktur der Ticket-Grids l�sst keine SQL-Abfragen�nderung zu",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T126029",
+    "Summary": "Nach Update auf 8.0.2.1580 k�nnen keine Strukturen angelegt werden",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T125762",
+    "Summary": "Matrix42",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T124037",
+    "Summary": "Fehler beim umbenennen in Standardstruktur",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T122427",
+    "Summary": "#TAP47617 - [aktuell Consultant vor Ort] Servicedesk Strukturfilter Problem. Feedback erforderlich.",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T121577",
+    "Summary": "Probleme nach Update",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T121464",
+    "Summary": "Aktualisierung der Struktur \"Software\" nicht m�glich",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T120356",
+    "Summary": "�nderungen in Strukturen werden nicht gespeichert",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T120294",
+    "Summary": "Definition of dyn. Structure not possible",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T120179",
+    "Summary": "DRF Luftrettung Service Store",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T119185",
+    "Summary": "WSM 8.0.2 Strukturen lassen sich nicht speichern / workaround bekannt",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T118750",
+    "Summary": "#CIT01884 - Strukturen lassen sich nach dem Update auf V8.0.2 nicht mehr �ndern.. Feedback erforderlich.",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T118710",
+    "Summary": "Filter wird nicht �bernommen bei der Standardstruktur Aufgaben - ASQL Abfrage Bedingung wird nicht �bernommen.",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T118258",
+    "Summary": "A-SQL-Abfragebedingung in statischen Strukturen lassen sich nicht speichern",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T118196",
+    "Summary": "#TAP46737 Anlage neuer und Aktualisierung bestehender Strukturfilter nicht m�glich",
+    "Problem": 18
+  },
+  {
+    "Ticket ID": "T121634",
+    "Summary": "Problem with OS templates",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T121492",
+    "Summary": "UP3: Windows 10 Build 1511 - unattend not possible",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T121049",
+    "Summary": "UP3: Windows 10 Enterprise 1511",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T120776",
+    "Summary": "UP3: Windows 10 Treshold",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T120748",
+    "Summary": "UP3: Windows 10 Installation direkt nach OS Install \"defekt",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T120735",
+    "Summary": "UP3: Windows 10 1511",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T120678",
+    "Summary": "Problem bei der Verteilung einer Win10 AIO  ISO/WIM",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T120540",
+    "Summary": "UP3: Verf�gbarkeit Empirum v16.0.3",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T120451",
+    "Summary": "UP3: OS-Installer Problem mit f�r Windows 10",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T120137",
+    "Summary": "UP3 16.0.2 Dell Ultrabook - Windows 10 kann nicht verteilt werden",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T120024",
+    "Summary": "UP3: Installation von Windows 10 Education bleibt stehen",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T119812",
+    "Summary": "UP3: Import Windows 10 Technical Preview",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T119753",
+    "Summary": "Windows 10 1511 - Empirum 16.0.2.3955 - Problem unattended PXE Installation.",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T119688",
+    "Summary": "UP3: Windows10 TH2",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T119679",
+    "Summary": "UP3: W10 Unattended Setup erfordert Eingabe",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T119521",
+    "Summary": "UP3: Windows 10 Installation",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T119232",
+    "Summary": "Empirum 16.0.2 Windows 10 TH2",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T119088",
+    "Summary": "UP3: #CIT01926 - Windows 10 TH2 Installationen. Feedback erforderlich.",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T118935",
+    "Summary": "UP3: Windows10 Pro x64 Build 1511 OS-Installation bleibt mit Auswahl h�ngen",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T118813",
+    "Summary": "neues Windows 10 ist noch nicht in der catalog.xml vorhanden",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T118812",
+    "Summary": "UP3: #TAP46885 - Windows 10 - neue Version Treshold 2 - Betriebssystemauswahlfenster wird bei OS Installation ...",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T118778",
+    "Summary": "UP3: Windows 10 Installation",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T118701",
+    "Summary": "UP3: Hilfe bei Win 10 installation",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T118694",
+    "Summary": "UP3: [#20151119-0086] Windows 10 1511 Installation steht in SKU Abfrage",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T118585",
+    "Summary": "neue Windows 10 Enterprise ISO Nov15",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T118560",
+    "Summary": "Problem mit OS Installer - neueste Version von Windows 10",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T118436",
+    "Summary": "UP3: Windows 10 Enterprise Version 1511 (Build 10586)",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T118424",
+    "Summary": "UP3: Windows 10 Education VL",
+    "Problem": 19
+  },
+  {
+    "Ticket ID": "T140772",
+    "Summary": "WM 8.1.2.1712 - Service Katalog - Provisioning Create WF Change funktioniert nicht",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T140637",
+    "Summary": "Change WF schlie�t nicht mehr ab",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T140104",
+    "Summary": "Close Change Request not possible anymore",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T139572",
+    "Summary": "Close Change Activity Fails workflow with timeout exception",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T139453",
+    "Summary": "#CIT04164 - Verschiedene Probleme nach dem Update. Feedback erforderlich.",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T139296",
+    "Summary": "Problem mit einem Workflow nach Update auf 8.12",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T139088",
+    "Summary": "#TAP51408 - Servicestore: Nach Update auf Version 8.1.2.1712: System.TimeoutException bei Abschluss von C...",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T138972",
+    "Summary": "#TAP51211 - Fehler Workflows. Feedback erforderlich.",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T138837",
+    "Summary": "LoadWorkflow was interrupted by an error",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T138835",
+    "Summary": "#DSPI003680 - OBO Bettermann | ServiceStore | . Feedback erforderlich.",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T138568",
+    "Summary": "Bekanntes Problem PRB9146: #CIT04103 - Schlie�en eines Changes. Feedback erforderlich.",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T137974",
+    "Summary": "#CIT04096 - Verschiedene Probleme nach Update. Feedback erforderlich.",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T137940",
+    "Summary": "#CIT04087 - Hotfix PRB29146 f�r Version 8.1.2.1712 f�r Baumarkt direkt GmbH. Feedback erforderlich.",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T137901",
+    "Summary": "Change Workflow schl�gt fehl sein Update auf aktuelle Version",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T137814",
+    "Summary": "#LMIN14945 - JCa beim Kunden - Change WF - Fehler bei Close Change.",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T137760",
+    "Summary": "#CIT04076 - Complete Change schl�gt fehl. Feedback erforderlich.",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T137213",
+    "Summary": "Change wird nicht geschlossen",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T137186",
+    "Summary": "SCCM Provisionierung funktioniert mit SCCM 2007 nicht.",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T137180",
+    "Summary": "#CIT04007 - Close Change Aktivit�t schl�gt fehl. Feedback erforderlich.",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T137127",
+    "Summary": "Nach Upgrade auf die Version 8.1.2.1712 Fehler im Workflow Timeout exeption Net.Pipe",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T136504",
+    "Summary": "Workflows schlagen fehl, nach Reboot geht wieder alles",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T135730",
+    "Summary": "Change Workflows werden nicht abgeschlossen",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T135707",
+    "Summary": "Change workflow runs into timeout",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T135318",
+    "Summary": "#CIT03802 - \"Complete Change\" bricht mit Fehler ab. Feedback erforderlich.",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T134817",
+    "Summary": "WPM2015 - 8.1.2.1710 - WF - Close Change function Failed",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T134659",
+    "Summary": "#IFD02745 - Workflow Fehler. Feedback erforderlich.",
+    "Problem": 20
+  },
+  {
+    "Ticket ID": "T130550",
+    "Summary": "Change Workflow fails at Close change activity",
+    "Problem": 20
+  }
+]
