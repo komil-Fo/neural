@@ -100,7 +100,15 @@ function getIncident(description) {
 	{ incidentId: incident.label }
       );
 
-      const incidentData = incidents[index];
+      if (index) {
+	var incidentData = incidents[index];
+      } else {
+	incidentData = {
+	  Subject: description,
+	  Solution: '',
+	  weight: incident.value
+	};
+      }
 
       return {
 	subject: incidentData.Subject,
@@ -112,8 +120,8 @@ function getIncident(description) {
 
 function updateData(incident) {
   const { title, description } = incident;
-  classifier.addDocument(description, title);
-  classifier.train();
+  classifierIncidents.addDocument(description, title);
+  classifierIncidents.train();
 }
 
 module.exports = {

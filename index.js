@@ -33,17 +33,15 @@ app.get('/:query?', (req, res) => {
   res.json(classify(query));
 });
 
-app.post('/incidents', (req, res) => {
-  console.log(req.body);
+app.post('/incidents/:title', (req, res) => {
+  const description = req.params.title;
 
-  const { title, description } = req.body;
+  res.json(getIncident(description));
 
-  if (!title('Please provide title parameter in POST request');
-
-  updateData({ title, description });
-  logRequest({ title, description });
-
-  res.json(classify(title));
+  updateData({
+    description,
+    title: Math.random(0, 1) * 10e16
+  });
 });
 
 app.listen(PORT);
