@@ -3,6 +3,7 @@ const isExported = fs.existsSync('./classifier.json');
 const natural    = require('natural');
 const incidents  = require('./data');
 const incidents2 = require('./incidents');
+const tasks      = require('./TasksAndWorkItems')
 const findKey    = require('lodash/findKey');
 let classifier   = new natural.BayesClassifier();
 
