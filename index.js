@@ -1,4 +1,4 @@
-const { classify, updateData } = require('./network');
+const { classify, updateData, getIncident } = require('./network');
 const express                  = require('express');
 const cors                     = require('cors');
 const bodyParser               = require('body-parser');
@@ -33,17 +33,14 @@ app.get('/:query?', (req, res) => {
   res.json(classify(query));
 });
 
-app.post('/', (req, res) => {
+app.post('/incidents', (req, res) => {
   console.log(req.body);
 
   const { title, description } = req.body;
 
-  if (!title) throw new Error('Please provide title parameter in POST request');
+  if (!title('Please provide title parameter in POST request');
 
-  if (description) {
-    updateData({ title, description });
-  }
-
+  updateData({ title, description });
   logRequest({ title, description });
 
   res.json(classify(title));
@@ -56,8 +53,14 @@ function logRequest(query) {
 
   console.log(`Incoming request: ${ new Date().toLocaleString() }`);
   console.log(`Summary: ${title}`);
-
-  if (description) {
-    console.log(`Description: ${description}`);
-  }
 }
+
+app.get('/incidents/:subject', (req, res) => {
+  const { subject } = req.params;
+
+  console.log(subject);
+
+  res.json(
+    getIncident(subject)
+  );
+});
