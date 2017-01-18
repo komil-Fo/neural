@@ -144,3 +144,4 @@ update.bat
 update_packages.bat
 
 _in
+classifier.json

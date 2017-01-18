@@ -1,13 +1,13 @@
 const { classify, updateData } = require('./network');
 const express                  = require('express');
 const cors                     = require('cors');
-const parseUrlencoded          = require('urlencoded-request-parser');
+const bodyParser               = require('body-parser');
 const app                      = express();
 const PORT                     = 3000;
 const IS_MAINTENANCE_MODE      = false;
 
 app.use(cors());
-app.use(parseUrlencoded());
+app.use(bodyParser());
 
 app.get('/:query?', (req, res) => {
   const { query } = req.params;
@@ -34,6 +34,8 @@ app.get('/:query?', (req, res) => {
 });
 
 app.post('/', (req, res) => {
+  console.log(req.body);
+
   const { title, description } = req.body;
 
   if (!title) throw new Error('Please provide title parameter in POST request');
